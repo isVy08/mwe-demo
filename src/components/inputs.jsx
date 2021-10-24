@@ -13,7 +13,7 @@ class Inputs extends React.Component {
         return (
             <div>
                { this.state.inputs.map(input => (<Input 
-                    key={input.id} upvalue={input.upvalue} downvalue={input.downvalue} content={input.content}>
+                    key={input.id} content={input.content}>
                         <div class="card-header" style={{fontWeight:"bolder"}}>{input.sentence}</div>
                    </Input>    
                ))} 

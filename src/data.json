@@ -1,81 +1,457 @@
 [
     {
         "id": 0,
-        "sentence": "Futch said he was shocked but honored when the senior official turned out to be Obama.",
+        "sentence": "The boats were part of the 57th iteration of the race.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "mutual admiration society",
-                "link": "https://idioms.thefreedictionary.com/mutual+admiration+society",
-                "definition": "A disparaging term for two (or more) people who engage in lavish mutual praise and admiration. "
+                "phrase": "on the home stretch",
+                "link": "https://idioms.thefreedictionary.com/on+the+home+stretch",
+                "definition": "In the midst of the final portion of an activity, project, competition, etc. Likened to the straightaway at the end of a race. "
             },
             {
-                "phrase": "in a month of Sundays",
-                "link": "https://idioms.thefreedictionary.com/in+a+month+of+Sundays",
-                "definition": "At any point; under any circumstances. Used in the negative to convey that something will never happen. "
+                "phrase": "on the hoof",
+                "link": "https://idioms.thefreedictionary.com/on+the+hoof",
+                "definition": "Done quickly in response to something else. "
             },
             {
-                "phrase": "my",
-                "link": "https://idioms.thefreedictionary.com/my",
-                "definition": "An interjection expressing surprise, incredulity, or pleasure. "
+                "phrase": "on the home straight/stretch",
+                "link": "https://idioms.thefreedictionary.com/on+the+home+straight%2fstretch",
+                "definition": "In the midst of the final portion of an activity, project, competition, etc. Likened to the straightaway at the end of a race. "
             },
             {
-                "phrase": "apple of one's eye",
-                "link": "https://idioms.thefreedictionary.com/apple+of+one%27s+eye",
-                "definition": "A cherished or favored person. This phrase is thought to be Biblical in origin. "
+                "phrase": "ready, steady, go",
+                "link": "https://idioms.thefreedictionary.com/ready%2c+steady%2c+go",
+                "definition": "An instruction to begin something, typically some kind of competition. The phrase is commonly used at the beginning of a race to indicate when the competitors can start. Primarily heard in UK. "
             },
             {
-                "phrase": "mature",
-                "link": "https://idioms.thefreedictionary.com/mature",
-                "definition": "After having given something careful consideration over an appropriately long period of time. "
+                "phrase": "ready, steady, go!",
+                "link": "https://idioms.thefreedictionary.com/ready%2c+steady%2c+go!",
+                "definition": "An instruction to begin something, typically some kind of competition. The phrase is commonly used at the beginning of a race to indicate when the competitors can start. Primarily heard in UK. "
             }
         ]
     },
     {
         "id": 1,
-        "sentence": "She gained notoriety in January when this picture began circulating online.",
+        "sentence": "Unable to contact anyone in the area, Parajuli made one last attempt, calling his daughter.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "FBF",
-                "link": "https://idioms.thefreedictionary.com/FBF",
-                "definition": "An initialism of \"flashback Friday,\" a social media phenomenon in which older pictures (such as childhood photos) are posted on Friday with the phrase as an accompanying hashtag or caption. "
+                "phrase": "not care a monkey's fart (about something)",
+                "link": "https://idioms.thefreedictionary.com/not+care+a+monkey%27s+fart+(about+something)",
+                "definition": "To not care in the slightest about something or someone; to attach no importance to someone or something. "
             },
             {
-                "phrase": "TBT",
-                "link": "https://idioms.thefreedictionary.com/TBT",
-                "definition": "An abbreviation for \"throwback Thursday,\" a social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase as an accompanying hashtag or caption. "
+                "phrase": "not care a hang",
+                "link": "https://idioms.thefreedictionary.com/not+care+a+hang",
+                "definition": "To not care in the slightest (about something or someone); to attach no importance to someone or something. "
             },
             {
-                "phrase": "Facebook official",
-                "link": "https://idioms.thefreedictionary.com/Facebook+official",
-                "definition": "Of a new romantic relationship, made public on Facebook by updating the relationship status in one's profile, and thereby revealed to one's entire network of friends and followers. "
+                "phrase": "new dawn",
+                "link": "https://idioms.thefreedictionary.com/new+dawn",
+                "definition": "The beginning of a new era. "
             },
             {
-                "phrase": "FBO",
-                "link": "https://idioms.thefreedictionary.com/FBO",
-                "definition": "Of a new romantic relationship, an abbreviation for \"Facebook official,\" meaning made public on Facebook by updating the relationship status in one's profile, and thereby revealed to one's entire network of friends and followers. "
+                "phrase": "Penelope's web",
+                "link": "https://idioms.thefreedictionary.com/Penelope%27s+web",
+                "definition": "Something that is routinely undone and, therefore, never progresses. Refers to "
             },
             {
-                "phrase": "woman of color",
-                "link": "https://idioms.thefreedictionary.com/woman+of+color",
-                "definition": "A woman who is not white. The term is used in a neutral or positive way to encompass all nonwhite women. "
+                "phrase": "not if one can help it",
+                "link": "https://idioms.thefreedictionary.com/not+if+one+can+help+it",
+                "definition": "If one is able to prevent or avoid something. Usually used after negative verb constructions. "
             }
         ]
     },
     {
         "id": 2,
-        "sentence": "Incidentally, he also scored in every round of their Youth League triumph too for good measure.",
+        "sentence": "A deadly tropical sea snail uses a super-potent form of insulin to subdue its fish prey, scientists have discovered.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "golden oldie",
-                "link": "https://idioms.thefreedictionary.com/golden+oldie",
-                "definition": "A form of entertainment, especially a song, that was very popular in the past and is still enjoyed by many people. "
+                "phrase": "gray amber",
+                "link": "https://idioms.thefreedictionary.com/gray+amber",
+                "definition": "Another term for ambergris, a waxy substance excreted by sperm whales and used as a fixative, especially in the preparation of perfumes. "
             },
+            {
+                "phrase": "it's/that's all right",
+                "link": "https://idioms.thefreedictionary.com/it%27s%2fthat%27s+all+right",
+                "definition": "Don't worry about something; no need to thank one or apologize for something. "
+            },
+            {
+                "phrase": "It's the economy, stupid.",
+                "link": "https://idioms.thefreedictionary.com/It%27s+the+economy%2c+stupid.",
+                "definition": " The one thing voters care most about is the health of the country's economy. The phrase was coined by political strategist James Carville for Bill Clinton's presidential campaign in 1992. "
+            },
+            {
+                "phrase": "tiger juice",
+                "link": "https://idioms.thefreedictionary.com/tiger+juice",
+                "definition": " Used in reference to various hard liquors, especially gin, whiskey, or brandy. "
+            },
+            {
+                "phrase": "from hand to hand",
+                "link": "https://idioms.thefreedictionary.com/from+hand+to+hand",
+                "definition": "From person to person, as of something passed between them by hand. "
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "sentence": "It allows users to import digital photos, social media updates and entries and uploaded paperwork.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "issue a call for (something)",
+                "link": "https://idioms.thefreedictionary.com/issue+a+call+for+(something)",
+                "definition": "To formally or publicly request or ask for something. "
+            },
+            {
+                "phrase": "crown (someone or something) with (something)",
+                "link": "https://idioms.thefreedictionary.com/crown+(someone+or+something)+with+(something)",
+                "definition": "Literally, to adorn one's head with a crown. "
+            },
+            {
+                "phrase": "click through",
+                "link": "https://idioms.thefreedictionary.com/click+through",
+                "definition": " In an Internet browser, to navigate to a new page by clicking on a link. "
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "sentence": "They are big and physical - but they can also pass the ball.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "has got game",
+                "link": "https://idioms.thefreedictionary.com/has+got+game",
+                "definition": "Is especially talented or adept at something, typically sports. "
+            },
+            {
+                "phrase": "crash together",
+                "link": "https://idioms.thefreedictionary.com/crash+together",
+                "definition": "Of two or more things, to strike each other violently or noisily. A noun or pronoun can be used between \"crash\" and \"together.\" "
+            },
+            {
+                "phrase": "course through",
+                "link": "https://idioms.thefreedictionary.com/course+through",
+                "definition": "To move or flow through something, especially with great speed or force. "
+            },
+            {
+                "phrase": "course through (something)",
+                "link": "https://idioms.thefreedictionary.com/course+through+(something)",
+                "definition": "To move or flow through something, especially with great speed or force. "
+            },
+            {
+                "phrase": "in large measure",
+                "link": "https://idioms.thefreedictionary.com/in+large+measure",
+                "definition": "To a great or considerable extent, proportion, or degree. "
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "sentence": "Just last week the toddlers condition took a turn for the worse.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "go to hell in a handbasket",
+                "link": "https://idioms.thefreedictionary.com/go+to+hell+in+a+handbasket",
+                "definition": "To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. "
+            },
+            {
+                "phrase": "go to hell in a handbasket, to",
+                "link": "https://idioms.thefreedictionary.com/go+to+hell+in+a+handbasket%2c+to",
+                "definition": "To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin. "
+            },
+            {
+                "phrase": "hump it",
+                "link": "https://idioms.thefreedictionary.com/hump+it",
+                "definition": "McGraw-Hill's Dictionary of American Slang and Colloquial Expressions Copyright \u00a9 2006 by The McGraw-Hill Companies, Inc. All rights reserved."
+            },
+            {
+                "phrase": "into the gutter",
+                "link": "https://idioms.thefreedictionary.com/into+the+gutter",
+                "definition": " Into a state of total waste, failure, or ruination. "
+            },
+            {
+                "phrase": "it's every man for himself",
+                "link": "https://idioms.thefreedictionary.com/it%27s+every+man+for+himself",
+                "definition": "Each person must work independently toward their own success, as in competitive situations. The phrase is not only used in reference to men. "
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "sentence": "Saliva samples were also used to measure levels of cortisol, which is made by the adrenal glands.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "on a whim",
+                "link": "https://idioms.thefreedictionary.com/on+a+whim",
+                "definition": "Based on a sudden, impulsive urge, desire, or idea; without careful planning or because of a capricious inclination. "
+            },
+            {
+                "phrase": "vaccinate against (something)",
+                "link": "https://idioms.thefreedictionary.com/vaccinate+against+(something)",
+                "definition": "To make use a vaccine or similar substance to produce immunity or resistance against a particular disease. "
+            },
+            {
+                "phrase": "go through someone like a dose of the salts",
+                "link": "https://idioms.thefreedictionary.com/go+through+someone+like+a+dose+of+the+salts",
+                "definition": "Of food, drink, or medicine, to be rapidly excreted from the body (as urine or feces) very soon after being ingested. A reference to the use of Epsom salts as a laxative. "
+            },
+            {
+                "phrase": "gorilla pills",
+                "link": "https://idioms.thefreedictionary.com/gorilla+pills",
+                "definition": " Sedative drugs, often barbiturates. "
+            },
+            {
+                "phrase": "urine test",
+                "link": "https://idioms.thefreedictionary.com/urine+test",
+                "definition": "A test in which one's urine is analyzed for the presence of illicit drugs. "
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "sentence": "West Ham have kept just one clean sheet in their last 20 Premier League games on the road.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "long-playing record",
+                "link": "https://idioms.thefreedictionary.com/long-playing+record",
+                "definition": "A vinyl phonograph record 25\u201330 cm in diameter that plays at approximately 33 revolutions per minute, designed to hold a full album of music (compared to an EP, or \"extended-play record,\" which typically only holds four or five songs). Usually abbreviated \"LP.\" "
+            },
+            {
+                "phrase": "not worth a damn",
+                "link": "https://idioms.thefreedictionary.com/not+worth+a+damn",
+                "definition": "Having no value or integrity; worthless. "
+            },
+            {
+                "phrase": "as close as stink on shit",
+                "link": "https://idioms.thefreedictionary.com/as+close+as+stink+on+shit",
+                "definition": " Having a very close, friendly relationship; inseparable. "
+            },
+            {
+                "phrase": "Marie Celeste",
+                "link": "https://idioms.thefreedictionary.com/Marie+Celeste",
+                "definition": "A place, location, or high-occupancy vehicle (especially a ship) that is inexplicably deserted or abandoned. An allusion to the Mary Celeste, an American merchant brigantine that was discovered floating off the Azores Islands in 1872 with no one on board and still in seaworthy condition. (Note: The variant spelling of \"Marie\" is the more common usage for the idiomatic reference, likely due to its use in a story by Arthur Conan Doyle.) "
+            },
+            {
+                "phrase": "a banker's dozen",
+                "link": "https://idioms.thefreedictionary.com/a+banker%27s+dozen",
+                "definition": "One less than a dozen, i.e., 1A play on \"a baker's dozen\" (13 rather than 12), it refers to lending in which interest is deducted at the time of the loan, therefore yielding less than what the loan actually stipulated. "
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "sentence": "I am satisfied that his took place over an extended period of time.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "home and hosed",
+                "link": "https://idioms.thefreedictionary.com/home+and+hosed",
+                "definition": "To have successfully completed something, as a project or activity. Primarily heard in Australia. "
+            },
+            {
+                "phrase": "on mature reflection/consideration",
+                "link": "https://idioms.thefreedictionary.com/on+mature+reflection%2fconsideration",
+                "definition": "After having given something careful consideration over an appropriately long period of time. "
+            },
+            {
+                "phrase": "on medication",
+                "link": "https://idioms.thefreedictionary.com/on+medication",
+                "definition": "Currently taking medical drugs that have been prescribed by a doctor. "
+            },
+            {
+                "phrase": "in the lap of the gods",
+                "link": "https://idioms.thefreedictionary.com/in+the+lap+of+the+gods",
+                "definition": "Decided upon or controlled by luck, chance, or fate; outside of one's control or influence. "
+            },
+            {
+                "phrase": "good as new",
+                "link": "https://idioms.thefreedictionary.com/good+as+new",
+                "definition": "In good or perfect condition, often after an act of restoration. "
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "sentence": "No American should ever have to wait six decades to have a decent and healthy place to call home.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "let's face it",
+                "link": "https://idioms.thefreedictionary.com/let%27s+face+it",
+                "definition": "We need to recognize the truth; we should face reality. "
+            },
+            {
+                "phrase": "at latter Lammas",
+                "link": "https://idioms.thefreedictionary.com/at+latter+Lammas",
+                "definition": " At a point in time that shall never come to pass; never. Refers to Lammas Day (August 1), the feast day of the new harvest in the Northern Hemisphere and a \"cross-quarter day\" on which rents were due. Thus, to be paid on \"latter Lammas\" meant to never be paid at all. Primarily heard in UK. "
+            },
+            {
+                "phrase": "riddle (someone or something) with (something)",
+                "link": "https://idioms.thefreedictionary.com/riddle+(someone+or+something)+with+(something)",
+                "definition": "To perforate someone or something in many places, as with bullets. Often used in passive constructions. "
+            },
+            {
+                "phrase": "there's no question of (something)",
+                "link": "https://idioms.thefreedictionary.com/there%27s+no+question+of+(something)",
+                "definition": "There is no doubt that something exists or is the case. "
+            },
+            {
+                "phrase": "Dorian Gray",
+                "link": "https://idioms.thefreedictionary.com/Dorian+Gray",
+                "definition": "A nickname applied to someone who doesn't seem to age. The phrase refers to the titular character in Oscar Wilde's novel "
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "sentence": "But when the boy ended back with his mother again, authorities then took the boy back into protective custody.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "Go to your room!",
+                "link": "https://idioms.thefreedictionary.com/Go+to+your+room!",
+                "definition": "A literal command typically issued by a parent to a child to have them stay in their room for a period of time as a punishment. "
+            },
+            {
+                "phrase": "go to your room",
+                "link": "https://idioms.thefreedictionary.com/go+to+your+room",
+                "definition": "A literal command typically issued by a parent to a child to have them stay in their room for a period of time as a punishment. "
+            },
+            {
+                "phrase": "boomerang child",
+                "link": "https://idioms.thefreedictionary.com/boomerang+child",
+                "definition": "An adult child who has resumed living with their parents after previously moving out. "
+            },
+            {
+                "phrase": "free-range parenting",
+                "link": "https://idioms.thefreedictionary.com/free-range+parenting",
+                "definition": "A movement and/or method of parenting in which children are granted ample freedom with limited parental supervision, within boundaries considered appropriate by their parents. The movement is often seen as a reaction against laws, rules, and societal pressures mandating that children are supervised nearly at all times. "
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "sentence": "Some 226,000 copies were scooped up last month and the publishers have now printed another 250,000.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "Cyber Monday",
+                "link": "https://idioms.thefreedictionary.com/Cyber+Monday",
+                "definition": "In the US, the Monday after Thanksgiving, on which many online retailers offer significant sales. It closely follows Black Friday, the Friday after Thanksgiving, on which brick-and-mortar stores hold sales. "
+            },
+            {
+                "phrase": "ta very much",
+                "link": "https://idioms.thefreedictionary.com/ta+very+much",
+                "definition": "Thank you very much. Primarily heard in UK. "
+            },
+            {
+                "phrase": "long-playing record",
+                "link": "https://idioms.thefreedictionary.com/long-playing+record",
+                "definition": "A vinyl phonograph record 25\u201330 cm in diameter that plays at approximately 33 revolutions per minute, designed to hold a full album of music (compared to an EP, or \"extended-play record,\" which typically only holds four or five songs). Usually abbreviated \"LP.\" "
+            },
+            {
+                "phrase": "ten to one",
+                "link": "https://idioms.thefreedictionary.com/ten+to+one",
+                "definition": "It is extremely likely that. "
+            },
+            {
+                "phrase": "po' boy",
+                "link": "https://idioms.thefreedictionary.com/po%27+boy",
+                "definition": "A traditional sandwich from New Orleans, Louisiana, made with a long roll of French bread and containing a variety of fillings, almost always with some kind of meat or fried seafood. (\"Po' boy\" being short for \"poor boy,\" supposedly referring to striking workers in 1929 to whom a local restaurant served such sandwiches.) Primarily heard in US. "
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "sentence": "But after saving the man, Warnock said he could not stay and rushed away from the scene.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "vanish into thin air, to",
+                "link": "https://idioms.thefreedictionary.com/vanish+into+thin+air%2c+to",
+                "definition": "To become invisible or pass out of sight, especially very suddenly or mysteriously. "
+            },
+            {
+                "phrase": "vanish without (a) trace",
+                "link": "https://idioms.thefreedictionary.com/vanish+without+(a)+trace",
+                "definition": "To disappear without any indication to one's or something's whereabouts. "
+            },
+            {
+                "phrase": "on your conscience",
+                "link": "https://idioms.thefreedictionary.com/on+your+conscience",
+                "definition": "Causing one persistent, nagging guilt for something one did or failed to do. "
+            },
+            {
+                "phrase": "variety shop",
+                "link": "https://idioms.thefreedictionary.com/variety+shop",
+                "definition": "A shop that sells a myriad of different items, especially those that are relatively inexpensive. "
+            },
+            {
+                "phrase": "go peddle your papers",
+                "link": "https://idioms.thefreedictionary.com/go+peddle+your+papers",
+                "definition": "Go away, and leave me alone! The phrase originated as a retort to the paperboy. "
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "sentence": "Debarking is a surgical operation that reduces tissue in the vocal chords.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "blow snot rockets",
+                "link": "https://idioms.thefreedictionary.com/blow+snot+rockets",
+                "definition": "To expel mucus from just one nostril by blocking the other one. "
+            },
+            {
+                "phrase": "take a bite out of (something)",
+                "link": "https://idioms.thefreedictionary.com/take+a+bite+out+of+(something)",
+                "definition": "Literally, to remove a chunk from something with one's teeth. "
+            },
+            {
+                "phrase": "park (one) in",
+                "link": "https://idioms.thefreedictionary.com/park+(one)+in",
+                "definition": "To park an automobile in front of one's own vehicle, thus preventing one from leaving one's parking space. "
+            },
+            {
+                "phrase": "cauliflower ear",
+                "link": "https://idioms.thefreedictionary.com/cauliflower+ear",
+                "definition": "A condition in which the external portion of the ear fills with blood or other fluids, creating a permanent fibrous tissue that results in a malformed appearance. Typically occurs in martial arts and contact sports in which headgear is not worn, such as boxing, wrestling, or rugby. "
+            },
+            {
+                "phrase": "the last roundup",
+                "link": "https://idioms.thefreedictionary.com/the+last+roundup",
+                "definition": " One's death. Primarily heard in US. "
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "sentence": "Jermain Defoe scored the winning goal - a spectacular volley - on the stroke of half-time .",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
             {
                 "phrase": "grand slam",
                 "link": "https://idioms.thefreedictionary.com/grand+slam",
@@ -87,86 +463,340 @@
                 "definition": " A friendly term of address. "
             },
             {
-                "phrase": "come through (something) with flying colors",
-                "link": "https://idioms.thefreedictionary.com/come+through+(something)+with+flying+colors",
-                "definition": "To win, achieve, or accomplish something exceptionally well or very successfully. Said especially of a test, examination, or training of some kind. Primarily heard in US. "
+                "phrase": "advantage in",
+                "link": "https://idioms.thefreedictionary.com/advantage+in",
+                "definition": "In tennis, the server has the advantage, meaning they will win the next point after deuce. "
             },
             {
-                "phrase": "well preserved",
-                "link": "https://idioms.thefreedictionary.com/well+preserved",
-                "definition": "Literally, having been kept from decaying over a long period of time. "
+                "phrase": "trust to",
+                "link": "https://idioms.thefreedictionary.com/trust+to",
+                "definition": "To have faith that one will perform a particular action. "
+            },
+            {
+                "phrase": "Garrison finish",
+                "link": "https://idioms.thefreedictionary.com/Garrison+finish",
+                "definition": "The end of a competition in which one participant comes from behind at the last minute to win. The phrase refers to US jockey Edward \"Snapper\" Garrison, who was known for securing such last-minute victories. "
             }
         ]
     },
     {
-        "id": 3,
-        "sentence": "Sierra Abanilla, 13, was in line at the buffet with her family when she heard the shot ring out.",
+        "id": 15,
+        "sentence": "Moore was taken into custody on February 19 this year after he had been allowed out on bail .",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "social",
-                "link": "https://idioms.thefreedictionary.com/social",
-                "definition": "To improve one's position within the hierarchical structure or makeup of a culture, society, or social environment. "
+                "phrase": "on someone's side",
+                "link": "https://idioms.thefreedictionary.com/on+someone%27s+side",
+                "definition": "Supportive or in aid of one or one's idea, plan, intention, etc. "
             },
             {
-                "phrase": "wedding tackle",
-                "link": "https://idioms.thefreedictionary.com/wedding+tackle",
-                "definition": " for male genitalia. "
+                "phrase": "ta very much",
+                "link": "https://idioms.thefreedictionary.com/ta+very+much",
+                "definition": "Thank you very much. Primarily heard in UK. "
             },
             {
-                "phrase": "bachelorette party",
-                "link": "https://idioms.thefreedictionary.com/bachelorette+party",
-                "definition": "A party thrown by the female friends of a bride-to-be. "
+                "phrase": "hell week",
+                "link": "https://idioms.thefreedictionary.com/hell+week",
+                "definition": "A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation. "
             },
             {
-                "phrase": "twerp",
-                "link": "https://idioms.thefreedictionary.com/twerp",
-                "definition": " An annoying, insignificant, weak, or detestable person. Sometimes used as a term of address. "
+                "phrase": "early doors",
+                "link": "https://idioms.thefreedictionary.com/early+doors",
+                "definition": "In the early stages of something. Primarily heard in UK. "
             },
             {
-                "phrase": "DQ",
-                "link": "https://idioms.thefreedictionary.com/DQ",
-                "definition": "  a trade name for a franchise fast-food store specializing in frozen desserts. (Initialism. Teens and collegiate.) "
+                "phrase": "December, May and",
+                "link": "https://idioms.thefreedictionary.com/December%2c+May+and",
+                "definition": "Used to describe a romantic relationship in which one person is much younger than the other. The age of the younger person is likened to May, which marks the beginning of spring, while the age of the older person is likened to December, which comes late in the year and marks the start of winter. "
             }
         ]
     },
     {
-        "id": 4,
-        "sentence": "It was then when she says the woman sitting behind the first passed out, as well.",
+        "id": 16,
+        "sentence": "Hannah was conceived through IVF by the same man who helped them become parents to Alex.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "get the vapors",
-                "link": "https://idioms.thefreedictionary.com/get+the+vapors",
-                "definition": " Typically of a woman, to be about to faint or feel as though one might. "
+                "phrase": "get (one's) prescription filled",
+                "link": "https://idioms.thefreedictionary.com/get+(one%27s)+prescription+filled",
+                "definition": "To go to or contact a pharmacy in order to buy the first dose or set of doses of a medicine as prescribed by a doctor. "
             },
             {
-                "phrase": "PFO",
-                "link": "https://idioms.thefreedictionary.com/PFO",
-                "definition": " An initialism of \"pissed, fell over,\" describing a patient who has suffered injury while inebriated. "
+                "phrase": "birth tourism",
+                "link": "https://idioms.thefreedictionary.com/birth+tourism",
+                "definition": "Travel to another country for the specific purpose of giving birth to one's child there, so as to avail of that country's economic advantages, such as superior healthcare, or to gain citizenship for the child and/or parent(s). "
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "sentence": "Hugely popular BBC Derby broadcaster Colin Bloomfield has died aged 33 after battling skin cancer .",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "do a Devon Loch",
+                "link": "https://idioms.thefreedictionary.com/do+a+Devon+Loch",
+                "definition": "To achieve a sudden and unexpected failure or loss at the last minute, especially in sports. (Devon Loch was a horse poised to win the 1956 Grand National when he suddenly leapt and fell, ultimately losing the race.) "
             },
             {
-                "phrase": "go to sleep",
-                "link": "https://idioms.thefreedictionary.com/go+to+sleep",
-                "definition": "Literally, to begin sleeping. "
+                "phrase": "die like Roland",
+                "link": "https://idioms.thefreedictionary.com/die+like+Roland",
+                "definition": "To die from hunger or thirst. The phrase refers to Roland, a legendary French hero who is thought to have survived the battle of Roncesvalles, only to die of starvation and thirst while crossing the Pyrenees in 778 CE. "
+            },
+            {
+                "phrase": "Mandela effect",
+                "link": "https://idioms.thefreedictionary.com/Mandela+effect",
+                "definition": "A phenomenon involving a large group of people all incorrectly remembering a past event or fact. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison. (Mandela died in 2013 after having served as president of South Africa from 1994 to 1999 following his release from prison in 1990.) "
+            },
+            {
+                "phrase": "second bite of the cherry",
+                "link": "https://idioms.thefreedictionary.com/second+bite+of+the+cherry",
+                "definition": "A second chance or opportunity. Primarily heard in UK. "
+            },
+            {
+                "phrase": "clear the Augean stables of (something)",
+                "link": "https://idioms.thefreedictionary.com/clear+the+Augean+stables+of+(something)",
+                "definition": "To rid a place or entity of a massive or entrenched accumulation of something (often corruption). In Greek mythology, Hercules was tasked with cleansing the Augean stables, which had not been cleaned in 30 years. "
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "sentence": "Police are yet to say if they will look into the snaps .",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "there's no time to lose",
+                "link": "https://idioms.thefreedictionary.com/there%27s+no+time+to+lose",
+                "definition": "A phrase said in situations that require immediate and/or fast action. "
+            },
+            {
+                "phrase": "not know (one's) own strength",
+                "link": "https://idioms.thefreedictionary.com/not+know+(one%27s)+own+strength",
+                "definition": "To underestimate how much force one is able to apply or exert in some physical activity. "
+            },
+            {
+                "phrase": "not know (one) from a hole in the ground",
+                "link": "https://idioms.thefreedictionary.com/not+know+(one)+from+a+hole+in+the+ground",
+                "definition": "To not know who one is just by looking at them; to have never met one before. "
+            },
+            {
+                "phrase": "keep (one) hanging (in midair)",
+                "link": "https://idioms.thefreedictionary.com/keep+(one)+hanging+(in+midair)",
+                "definition": "To withhold information from one when it is expected to be delivered. "
+            },
+            {
+                "phrase": "I don't believe this!",
+                "link": "https://idioms.thefreedictionary.com/I+don%27t+believe+this!",
+                "definition": "An expression of surprise or incredulity, possibly bordering on vexation. "
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "sentence": "He was taken to hospital by paramedics and as deputies arrived to question him, he was seen running away.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "crash cart",
+                "link": "https://idioms.thefreedictionary.com/crash+cart",
+                "definition": "The cart of medical equipment used when a patient \"crashes\" (experiences cardiac arrest). "
+            },
+            {
+                "phrase": "hoss opera",
+                "link": "https://idioms.thefreedictionary.com/hoss+opera",
+                "definition": "A film or theatrical production about the American West (i.e., a western), especially one that is clich\u00e9d or formulaic. "
+            },
+            {
+                "phrase": "granny dumping",
+                "link": "https://idioms.thefreedictionary.com/granny+dumping",
+                "definition": "The abandonment of an elderly relative in a public place or facility, especially a hospital or care center, so as to relieve oneself of the duty of caring for them. "
+            },
+            {
+                "phrase": "boxed on the table",
+                "link": "https://idioms.thefreedictionary.com/boxed+on+the+table",
+                "definition": " To die in surgery. "
             },
             {
                 "phrase": "box on the table",
                 "link": "https://idioms.thefreedictionary.com/box+on+the+table",
                 "definition": " To die in surgery. "
-            },
-            {
-                "phrase": "pregnant",
-                "link": "https://idioms.thefreedictionary.com/pregnant",
-                "definition": "A long pause in speech that indicates a lot of meaning or significance. "
             }
         ]
     },
     {
-        "id": 5,
-        "sentence": "Indeed the Liverpool player should look at what happened to Shaun Wright-Phillips a decade ago.",
+        "id": 20,
+        "sentence": "Bonne was rescued from Puerto Rico and is a Sato, which means mixed breed or street dog.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "pot is calling the kettle black",
+                "link": "https://idioms.thefreedictionary.com/pot+is+calling+the+kettle+black",
+                "definition": "Someone is accusing or criticizing someone else for some flaw, fault, or misdeed that they themselves are guilty of as well. "
+            },
+            {
+                "phrase": "lump with",
+                "link": "https://idioms.thefreedictionary.com/lump+with",
+                "definition": "To put or categorize someone or something in the same manner or group as someone or something else, especially in a careless, hasty, or indiscriminately. "
+            },
+            {
+                "phrase": "Heinz 57",
+                "link": "https://idioms.thefreedictionary.com/Heinz+57",
+                "definition": "A phrase used to describe anything that is made up of a mixture of things. The phrase refers to an advertising slogan for the H.J. Heinz Company's 57 varieties of pickles. "
+            },
+            {
+                "phrase": "Heinz 57 (variety)",
+                "link": "https://idioms.thefreedictionary.com/Heinz+57+(variety)",
+                "definition": "A phrase used to describe anything that is made up of a mixture of things. The phrase refers to an advertising slogan for the H.J. Heinz Company's 57 varieties of pickles. "
+            },
+            {
+                "phrase": "Heinz 57 variety",
+                "link": "https://idioms.thefreedictionary.com/Heinz+57+variety",
+                "definition": "A phrase used to describe anything that is made up of a mixture of things. The phrase refers to an advertising slogan for the H.J. Heinz Company's 57 varieties of pickles. "
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "sentence": "It spread, as teachers around the country tried it with their own classrooms.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "open day",
+                "link": "https://idioms.thefreedictionary.com/open+day",
+                "definition": "A specified day in which an organization, especially a school, university, or business, is open for visitation, inspection, or evaluation by members of the public. Primarily heard in UK. "
+            },
+            {
+                "phrase": "hang out one's shingle",
+                "link": "https://idioms.thefreedictionary.com/hang+out+one%27s+shingle",
+                "definition": "To open an office for one's own business or professional practice. "
+            },
+            {
+                "phrase": "hang out one's shingle, to",
+                "link": "https://idioms.thefreedictionary.com/hang+out+one%27s+shingle%2c+to",
+                "definition": "To open an office for one's own business or professional practice. "
+            },
+            {
+                "phrase": "the schoolmaster is abroad",
+                "link": "https://idioms.thefreedictionary.com/the+schoolmaster+is+abroad",
+                "definition": "Education has become available to and widespread among people of many different backgrounds and locations. "
+            },
+            {
+                "phrase": "pull yourself up by your bootstraps",
+                "link": "https://idioms.thefreedictionary.com/pull+yourself+up+by+your+bootstraps",
+                "definition": "To improve one's life or circumstances through one's own efforts, rather than relying on others. "
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "sentence": "His portrayals vary between vivid city scenes, still-life objects, portraits and breathtaking motion-shots.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "strike it lucky",
+                "link": "https://idioms.thefreedictionary.com/strike+it+lucky",
+                "definition": "To have a sudden instance of extremely good fortune. "
+            },
+            {
+                "phrase": "see the writing on the wall",
+                "link": "https://idioms.thefreedictionary.com/see+the+writing+on+the+wall",
+                "definition": "To notice and interpret apparent signs or indications that something will or is about to happen in the future, especially something bad or unfortunate. The phrase comes from the Biblical story of Daniel, in which the prophet interprets some mysterious writing that a disembodied hand has inscribed on the palace wall, telling King Belshazzar that he will be overthrown. "
+            },
+            {
+                "phrase": "what a life",
+                "link": "https://idioms.thefreedictionary.com/what+a+life",
+                "definition": "This particular way of life is really exhausting, difficult, or unenjoyable. "
+            },
+            {
+                "phrase": "have (one's)/a finger in many pies",
+                "link": "https://idioms.thefreedictionary.com/have+(one%27s)%2fa+finger+in+many+pies",
+                "definition": "To be involved in many different activities, enterprises, interests, etc. "
+            },
+            {
+                "phrase": "resound throughout (something or some place)",
+                "link": "https://idioms.thefreedictionary.com/resound+throughout+(something+or+some+place)",
+                "definition": "To fill or be heard throughout something or some place due to (someone's or something's) great volume, pitch, or ability to project. "
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "sentence": "The winners will remain a secret until the auctions are aired during the season finale.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "Dorian Gray",
+                "link": "https://idioms.thefreedictionary.com/Dorian+Gray",
+                "definition": "A nickname applied to someone who doesn't seem to age. The phrase refers to the titular character in Oscar Wilde's novel "
+            },
+            {
+                "phrase": "just the job",
+                "link": "https://idioms.thefreedictionary.com/just+the+job",
+                "definition": "Exactly the thing that is or was needed or called for. "
+            },
+            {
+                "phrase": "at latter Lammas",
+                "link": "https://idioms.thefreedictionary.com/at+latter+Lammas",
+                "definition": " At a point in time that shall never come to pass; never. Refers to Lammas Day (August 1), the feast day of the new harvest in the Northern Hemisphere and a \"cross-quarter day\" on which rents were due. Thus, to be paid on \"latter Lammas\" meant to never be paid at all. Primarily heard in UK. "
+            },
+            {
+                "phrase": "heartbeat (away) from being (something)",
+                "link": "https://idioms.thefreedictionary.com/heartbeat+(away)+from+being+(something)",
+                "definition": "In a position to move into a position immediately upon the absence of one's superior or predecessor (often assumed to mean from death). "
+            },
+            {
+                "phrase": "Penelope's web",
+                "link": "https://idioms.thefreedictionary.com/Penelope%27s+web",
+                "definition": "Something that is routinely undone and, therefore, never progresses. Refers to "
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "sentence": "The bridge is what links the app to the hi-tech bulbs.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "green state",
+                "link": "https://idioms.thefreedictionary.com/green+state",
+                "definition": "An American state where the Green Party of the US is favored or carries influence. Primarily heard in US. "
+            },
+            {
+                "phrase": "green as grass",
+                "link": "https://idioms.thefreedictionary.com/green+as+grass",
+                "definition": "Very green in color. "
+            },
+            {
+                "phrase": "plug out",
+                "link": "https://idioms.thefreedictionary.com/plug+out",
+                "definition": "To remove the plug of some electronic device from something else, such as a power outlet. A noun or pronoun can be used between \"plug\" and \"out.\" "
+            },
+            {
+                "phrase": "plug into",
+                "link": "https://idioms.thefreedictionary.com/plug+into",
+                "definition": "To be directly or very closely involved in, attuned to, or enthusiastic about something. "
+            },
+            {
+                "phrase": "pull yourself up by your bootstraps",
+                "link": "https://idioms.thefreedictionary.com/pull+yourself+up+by+your+bootstraps",
+                "definition": "To improve one's life or circumstances through one's own efforts, rather than relying on others. "
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "sentence": "The toddlers parents released a heart-wrenching video earlier on Friday begging\u00a0for his return.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
@@ -176,217 +806,613 @@
                 "definition": "Thank you very much. Primarily heard in UK. "
             },
             {
-                "phrase": "Doctor Livingstone, I presume?",
-                "link": "https://idioms.thefreedictionary.com/Doctor+Livingstone%2c+I+presume%3f",
-                "definition": "A humorous greeting. The phrase refers to Scottish explorer David Livingstone, who was presumed lost in Africa in the mid-19th century. When reporter H.M. Stanley finally located him, he supposedly greeted Livingstone with this now-famous phrase. "
+                "phrase": "hell week",
+                "link": "https://idioms.thefreedictionary.com/hell+week",
+                "definition": "A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation. "
             },
             {
-                "phrase": "lang",
-                "link": "https://idioms.thefreedictionary.com/lang",
-                "definition": "Old times, especially those that are remembered fondly. In Scottish, the phrase means \"old long since.\" "
+                "phrase": "You're in the army now!",
+                "link": "https://idioms.thefreedictionary.com/You%27re+in+the+army+now!",
+                "definition": "A reference to the intensity and rigidity that accompanies military training that a new recruit is going to face. "
             },
             {
-                "phrase": "footprint",
-                "link": "https://idioms.thefreedictionary.com/footprint",
-                "definition": "The contribution of environmentally harmful gases, commonly known as greenhouse gases, produced by human activity. "
+                "phrase": "liars need good memories",
+                "link": "https://idioms.thefreedictionary.com/liars+need+good+memories",
+                "definition": " If you're going to lie successfully, you need to be able to remember and keep track of your lies. "
             },
             {
-                "phrase": "redbrick university",
-                "link": "https://idioms.thefreedictionary.com/redbrick+university",
-                "definition": "A British university founded in the 19th or 20th century. (Many buildings on such universities' campuses are made with red bricks.) Most often used to distinguish such a school from Oxford or Cambridge, both of which were founded in the Middle Ages. Primarily heard in UK. "
+                "phrase": "Cyber Monday",
+                "link": "https://idioms.thefreedictionary.com/Cyber+Monday",
+                "definition": "In the US, the Monday after Thanksgiving, on which many online retailers offer significant sales. It closely follows Black Friday, the Friday after Thanksgiving, on which brick-and-mortar stores hold sales. "
             }
         ]
     },
     {
-        "id": 6,
-        "sentence": "David Beckham scored from behind the half-way line in a Premier League match against Wimbledon in 1996.",
+        "id": 26,
+        "sentence": "Their numbers were reduced by hunting at the end of the 19th century.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "golden sombrero",
-                "link": "https://idioms.thefreedictionary.com/golden+sombrero",
-                "definition": "In baseball, what a batter is humorously said to have earned after striking out four times in one game. The phrase is a play on the term \"hat trick,\" which in soccer and hockey refers to the act of scoring three goals in one game. "
+                "phrase": "dressing down, a",
+                "link": "https://idioms.thefreedictionary.com/dressing+down%2c+a",
+                "definition": "A punishment, such as a scolding. In the fifteenth century, the verb \u201cdress\u201d was used alone in the sense of \u201cto punish,\u201d and \u201cdown\u201d was added a couple of hundred years later. John Lescroart used it in his novel, "
             },
             {
-                "phrase": "bear in",
-                "link": "https://idioms.thefreedictionary.com/bear+in",
-                "definition": "In backgammon, to bring a checker into one's home board. "
+                "phrase": "on the downside",
+                "link": "https://idioms.thefreedictionary.com/on+the+downside",
+                "definition": "Considering the negative, adverse, disadvantageous, regrettable, etc., aspects of a situation, especially one that is or would be otherwise positive or beneficial. "
             },
             {
-                "phrase": "bigly",
-                "link": "https://idioms.thefreedictionary.com/bigly",
-                "definition": "Significantly. The word gained popularity after Donald Trump was thought to have said it during a 2016 US presidential debate. Official transcripts of the debate rendered the word as \"big league.\" "
+                "phrase": "middle-aged spread",
+                "link": "https://idioms.thefreedictionary.com/middle-aged+spread",
+                "definition": "Weight that accumulates around a person's midsection due to a decrease in metabolism caused by aging. "
             },
             {
-                "phrase": "It's the economy, stupid.",
-                "link": "https://idioms.thefreedictionary.com/It%27s+the+economy%2c+stupid.",
-                "definition": " The one thing voters care most about is the health of the country's economy. The phrase was coined by political strategist James Carville for Bill Clinton's presidential campaign in 1992. "
+                "phrase": "lay to rest",
+                "link": "https://idioms.thefreedictionary.com/lay+to+rest",
+                "definition": "To bury someone who has died. "
             },
             {
-                "phrase": "it's/that's all right",
-                "link": "https://idioms.thefreedictionary.com/it%27s%2fthat%27s+all+right",
-                "definition": "Don't worry about something; no need to thank one or apologize for something. "
+                "phrase": "go south",
+                "link": "https://idioms.thefreedictionary.com/go+south",
+                "definition": "To escape; to vanish or disappear. (Not necessarily in a southerly direction.) "
             }
         ]
     },
     {
-        "id": 7,
-        "sentence": "She said she shared her account of the story as a reminder to be kinder.",
+        "id": 27,
+        "sentence": "The clinic issued a statement confirming Lindsey had been fired and distanced themselves from the employee.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "How ya doin'?",
-                "link": "https://idioms.thefreedictionary.com/How+ya+doin%27%3f",
-                "definition": " How are things? How's life? (A colloquial shortening of \"How are you doing?\") "
+                "phrase": "get (one's) pink slip",
+                "link": "https://idioms.thefreedictionary.com/get+(one%27s)+pink+slip",
+                "definition": "To receive a notice of termination from one's employer. "
             },
             {
-                "phrase": "extend (one's) sympathy",
-                "link": "https://idioms.thefreedictionary.com/extend+(one%27s)+sympathy",
-                "definition": "To share one's condolences. "
+                "phrase": "send (someone) to an early grave",
+                "link": "https://idioms.thefreedictionary.com/send+(someone)+to+an+early+grave",
+                "definition": "To do things or act in a way that is likely to result in one's premature death. "
             },
             {
-                "phrase": "AITYD",
-                "link": "https://idioms.thefreedictionary.com/AITYD",
-                "definition": "An initialism for \"And I think you do,\" typically said along with \"If you know what I mean\" when the speaker thinks the listener has understood their insinuation. "
+                "phrase": "get canned",
+                "link": "https://idioms.thefreedictionary.com/get+canned",
+                "definition": "To be summarily dismissed or ousted from employment; to be fired. "
             },
             {
-                "phrase": "attagal",
-                "link": "https://idioms.thefreedictionary.com/attagal",
-                "definition": "An expression of encouragement, support, or approval toward a woman, used as a standalone interjection before or after a sentence. It is a variation of the more common (but also potentially diminutive) \"attagirl\"; sometimes spelled \"atta gal.\" "
+                "phrase": "give (someone) the can",
+                "link": "https://idioms.thefreedictionary.com/give+(someone)+the+can",
+                "definition": "To summarily dismiss or oust someone from employment; to fire someone. "
             },
             {
-                "phrase": "any old place",
-                "link": "https://idioms.thefreedictionary.com/any+old+place",
-                "definition": "Any place at all. Typically used in negative constructions to convey that one should go to a specific location or type of location. "
+                "phrase": "last in, first out",
+                "link": "https://idioms.thefreedictionary.com/last+in%2c+first+out",
+                "definition": "Describing a policy or practice in which the employees who were hired most recently will be the first to be laid off. "
             }
         ]
     },
     {
-        "id": 8,
-        "sentence": "The tiny round disks created are ground into shape, and polished, to become glass.",
+        "id": 28,
+        "sentence": "Many of them found their way to Messi, who scored twice before half-time and added another three after.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "cue in",
-                "link": "https://idioms.thefreedictionary.com/cue+in",
-                "definition": "To signal one to begin to do something. A noun or pronoun can be used between \"cue\" and \"in.\" "
+                "phrase": "grand slam",
+                "link": "https://idioms.thefreedictionary.com/grand+slam",
+                "definition": "In the card game bridge, the winning of all thirteen tricks on one deal of the game. "
             },
             {
-                "phrase": "googly eyes",
-                "link": "https://idioms.thefreedictionary.com/googly+eyes",
-                "definition": "Small plastic discs that are typically used in craft projects as eyes. (The white background of the disc is fixed, but the black part can move, somewhat resembling the pupil of a human eye.) Often applied to any sort of puppet or cartoon that has eyes that move in a similarly \"wild\" manner. "
+                "phrase": "cast of thousands",
+                "link": "https://idioms.thefreedictionary.com/cast+of+thousands",
+                "definition": " A very large group of people (involved in something). A reference to the advertising claims of the epic films of early Hollywood. "
             },
             {
-                "phrase": "glass in",
-                "link": "https://idioms.thefreedictionary.com/glass+in",
-                "definition": "To surround or encircle something with glass. A noun or pronoun can be used between \"glass\" and \"in.\" "
+                "phrase": "dream team",
+                "link": "https://idioms.thefreedictionary.com/dream+team",
+                "definition": "A group or combination of people that is ideally suited to some purpose or endeavor. "
             },
             {
-                "phrase": "under no circumstances",
-                "link": "https://idioms.thefreedictionary.com/under+no+circumstances",
-                "definition": "At no time; never. "
+                "phrase": "United we stand, divided we fall",
+                "link": "https://idioms.thefreedictionary.com/United+we+stand%2c+divided+we+fall",
+                "definition": "We are much more powerful and likely to succeed when we work together toward a common purpose. "
             },
             {
-                "phrase": "buff down",
-                "link": "https://idioms.thefreedictionary.com/buff+down",
-                "definition": "To make a solid surface (such as metal, wood, or plastic) smooth by removing imperfections with the application of a strong and consistent frictional force, especially from a buffing wheel. "
+                "phrase": "bat an eye",
+                "link": "https://idioms.thefreedictionary.com/bat+an+eye",
+                "definition": "To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. "
             }
         ]
     },
     {
-        "id": 9,
-        "sentence": "Packed into the tiny computer is Bluetooth, sensors and battery charging capabilities.",
+        "id": 29,
+        "sentence": "Cousins played 270-games with West Coast and Richmond during his career in the Australian Football League .",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "load up on (something)",
-                "link": "https://idioms.thefreedictionary.com/load+up+on+(something)",
-                "definition": "To gather, store, or buy a lot of something to create a large stock or supply. "
+                "phrase": "win out over (someone or something)",
+                "link": "https://idioms.thefreedictionary.com/win+out+over+(someone+or+something)",
+                "definition": "To defeat or prevail over someone or something, as in a competition, contest, or poll. "
             },
             {
-                "phrase": "warm as toast",
-                "link": "https://idioms.thefreedictionary.com/warm+as+toast",
-                "definition": "Comfortably and cozily warm, especially when the weather outside is very cold. "
+                "phrase": "forty minutes of hell",
+                "link": "https://idioms.thefreedictionary.com/forty+minutes+of+hell",
+                "definition": "In collegiate basketball, the entire duration (40 minutes) of a game played in a suffocating and aggressive manner against one's opponents. The phrase was reportedly coined by Nolan Richardson while coaching the Arkansas Razorbacks in the mid-1990s. Primarily heard in US, South Africa. "
             },
             {
-                "phrase": "could be written on the back of a postage stamp",
-                "link": "https://idioms.thefreedictionary.com/could+be+written+on+the+back+of+a+postage+stamp",
-                "definition": " Of information, very small, finite, or limited in amount or scope; able to fit in a very small space when written down (because there is very little content). Said especially of someone's knowledge about something. "
+                "phrase": "seven-league boots",
+                "link": "https://idioms.thefreedictionary.com/seven-league+boots",
+                "definition": "The ability to travel at very fast speeds; that which grants the ability to travel at very high speeds. An allusion to magical boots featured in European folklore that grant the wearer the ability to travel seven leagues in a single stride. "
             },
             {
-                "phrase": "could fit on the back of a postage stamp",
-                "link": "https://idioms.thefreedictionary.com/could+fit+on+the+back+of+a+postage+stamp",
-                "definition": " Of information, very small, finite, or limited in amount or scope; able to fit in a very small space when written down (because there is very little content). Said especially of someone's knowledge about something. "
+                "phrase": "as close as stink on shit",
+                "link": "https://idioms.thefreedictionary.com/as+close+as+stink+on+shit",
+                "definition": " Having a very close, friendly relationship; inseparable. "
             },
             {
-                "phrase": "selfish",
-                "link": "https://idioms.thefreedictionary.com/selfish",
-                "definition": "A rhetorical question used to indicate that someone or something shows an extraordinary amount of some negative characteristic or trait. "
+                "phrase": "Benjamin's mess",
+                "link": "https://idioms.thefreedictionary.com/Benjamin%27s+mess",
+                "definition": "A particularly large portion (of something), or the largest portion given. A reference to Genesis 43:34, in which Joseph, the son of Jacob who was sold to the Egyptians and became a high-ranking official, treated his former brothers to a feast, with his youngest brother Benjamin receiving a portion (often translated as \"mess\") five times that of the others. The phrase is used almost exclusively in reference to God or religion. "
             }
         ]
     },
     {
-        "id": 10,
-        "sentence": "Saad, 37, was recently sentenced to at least eight years in prison after pleading guilty to involuntary manslaughter.",
+        "id": 30,
+        "sentence": "She continued lambasting the DC elite by poking fun at the events location, according to NBC.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "BLM",
-                "link": "https://idioms.thefreedictionary.com/BLM",
-                "definition": "An abbreviation for \"Black Lives Matter,\" a social justice movement focusing on black oppression and police brutality in the US and abroad. Its start is typically associated with the 2013 acquittal of George Zimmerman for the murder of Trayvon Martin, a black teenager who was unarmed at the time of the shooting. "
+                "phrase": "computer says no",
+                "link": "https://idioms.thefreedictionary.com/computer+says+no",
+                "definition": " Used to indicate any inflexible and unreasonable rejection or refusal, especially by a government department or customer support agent. The phrase was popularized as the catchphrase of a character on the sketch comedy show "
             },
             {
-                "phrase": "three-strike(s) law",
-                "link": "https://idioms.thefreedictionary.com/three-strike(s)+law",
-                "definition": "In law, if one receives a third felony conviction for a serious or violent crime, they can be sentenced to life in prison. "
+                "phrase": "your mother is a whore",
+                "link": "https://idioms.thefreedictionary.com/your+mother+is+a+whore",
+                "definition": " An extremely offensive insult meant to imply that the other person is utterly lacking in class, intelligence, or character. "
             },
             {
-                "phrase": "Mandela effect",
-                "link": "https://idioms.thefreedictionary.com/Mandela+effect",
-                "definition": "A phenomenon involving a large group of people all incorrectly remembering a past event or fact. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison. (Mandela died in 2013 after having served as president of South Africa from 1994 to 1999 following his release from prison in 1990.) "
+                "phrase": "poke borak at (someone or something)",
+                "link": "https://idioms.thefreedictionary.com/poke+borak+at+(someone+or+something)",
+                "definition": " To taunt or mock someone or something; to make fun of someone or something. Primarily heard in Australia. "
             },
             {
-                "phrase": "dropout factory",
-                "link": "https://idioms.thefreedictionary.com/dropout+factory",
-                "definition": "A high school that has an unusually high number of students who leave school (drop out) before graduating. Primarily heard in US, South Africa. "
+                "phrase": "poke fun",
+                "link": "https://idioms.thefreedictionary.com/poke+fun",
+                "definition": "To mildly taunt or mock someone or something; to make light fun of someone or something. "
             },
             {
-                "phrase": "higher than Gilderoy's kite",
-                "link": "https://idioms.thefreedictionary.com/higher+than+Gilderoy%27s+kite",
-                "definition": "Extremely high; so high that it can hardly be seen. \"Gilderoy\" was the nickname of notorious 17th-century highwayman Patrick MacGregor, who was hanged at a time when the height of the gallows corresponded to the severity of a criminal's misdeeds. Thus, MacGregor was hanged higher than his accomplices\u2014like a kite in the sky. "
+                "phrase": "liars need good memories",
+                "link": "https://idioms.thefreedictionary.com/liars+need+good+memories",
+                "definition": " If you're going to lie successfully, you need to be able to remember and keep track of your lies. "
             }
         ]
     },
     {
-        "id": 11,
-        "sentence": "Riley Hughes died at just 32 days old after suffering complications arising from whooping cough.",
+        "id": 31,
+        "sentence": "West then immediately jumps out of the car and shoots Moynihan in the face at close range .",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "the shirt off (one's) back",
-                "link": "https://idioms.thefreedictionary.com/the+shirt+off+(one%27s)+back",
-                "definition": "Anything or everything one owns or has to offer. "
+                "phrase": "drive-by shooting",
+                "link": "https://idioms.thefreedictionary.com/drive-by+shooting",
+                "definition": "An act or instance in which someone riding in a vehicle begins firing a gun at an unsuspecting person on the street. "
             },
             {
-                "phrase": "gone to the big something in the sky",
-                "link": "https://idioms.thefreedictionary.com/gone+to+the+big+something+in+the+sky",
-                "definition": "(Having) died. Something related to the deceased person's interests is stated between \"big\" and \"in.\" "
+                "phrase": "drive-by media",
+                "link": "https://idioms.thefreedictionary.com/drive-by+media",
+                "definition": "The idea that members of the mainstream news media can negatively affect viewer perception by sharing a barrage of information with the potential to mislead or confuse viewers. (\"Drive-by\" comes from the term \"drive-by shooting,\" in which someone riding in a vehicle begins firing a gun at an unsuspecting person on the street.) Popularized by US radio personality Rush Limbaugh. "
             },
             {
-                "phrase": "gone to the big (something) in the sky",
-                "link": "https://idioms.thefreedictionary.com/gone+to+the+big+(something)+in+the+sky",
-                "definition": "(Having) died. Something related to the deceased person's interests is stated between \"big\" and \"in.\" "
+                "phrase": "blaze down",
+                "link": "https://idioms.thefreedictionary.com/blaze+down",
+                "definition": "To intensely shine down onto someone or something. "
             },
             {
-                "phrase": "die like Roland",
-                "link": "https://idioms.thefreedictionary.com/die+like+Roland",
-                "definition": "To die from hunger or thirst. The phrase refers to Roland, a legendary French hero who is thought to have survived the battle of Roncesvalles, only to die of starvation and thirst while crossing the Pyrenees in 778 CE. "
+                "phrase": "blaze away at (someone or something)",
+                "link": "https://idioms.thefreedictionary.com/blaze+away+at+(someone+or+something)",
+                "definition": "To destroy or clear away something in a great fire. A noun or pronoun can be used between \"blaze\" and \"away.\" "
+            },
+            {
+                "phrase": "lay siege to",
+                "link": "https://idioms.thefreedictionary.com/lay+siege+to",
+                "definition": "To surround and attack a place (often a city or building) with armed troops. "
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "sentence": "Knight, a US Army veteran, was elected to the US House of Representatives last November .",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "Cyber Monday",
+                "link": "https://idioms.thefreedictionary.com/Cyber+Monday",
+                "definition": "In the US, the Monday after Thanksgiving, on which many online retailers offer significant sales. It closely follows Black Friday, the Friday after Thanksgiving, on which brick-and-mortar stores hold sales. "
+            },
+            {
+                "phrase": "apply oneself",
+                "link": "https://idioms.thefreedictionary.com/apply+oneself",
+                "definition": "To try hard or concentrate one's abilities (toward something). Without the preposition \"to,\" it refers to a concentrated effort in general. "
+            },
+            {
+                "phrase": "Abbott's priory",
+                "link": "https://idioms.thefreedictionary.com/Abbott%27s+priory",
+                "definition": " A nickname for London's King's Bench Prison, referring to Charles Abbott, 1st Baron Tenterden, who served as Lord Chief Justice of the King's Bench in the early 19th century. "
+            },
+            {
+                "phrase": "ta very much",
+                "link": "https://idioms.thefreedictionary.com/ta+very+much",
+                "definition": "Thank you very much. Primarily heard in UK. "
+            },
+            {
+                "phrase": "get the wooden spoon",
+                "link": "https://idioms.thefreedictionary.com/get+the+wooden+spoon",
+                "definition": "To finish a contest or competition in last place. (The \"wooden spoon\" is the hypothetical prize for the person finishing in last place in a competition.) Primarily heard in UK, Australia. "
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "sentence": "And Poles caught denouncing Jews to the Nazis were even killed by the Polish resistance.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "the final say",
+                "link": "https://idioms.thefreedictionary.com/the+final+say",
+                "definition": "The final point in an argument or discussion, especially that which decisively or conclusively ends it. "
+            },
+            {
+                "phrase": "go to the stake for",
+                "link": "https://idioms.thefreedictionary.com/go+to+the+stake+for",
+                "definition": "To be willing to do anything in defense of one's beliefs. A stake is a pole to which people were once tied when being burned alive as a form of execution. "
+            },
+            {
+                "phrase": "go to the stake for (something)",
+                "link": "https://idioms.thefreedictionary.com/go+to+the+stake+for+(something)",
+                "definition": "To be willing to do anything in defense of one's beliefs. A stake is a pole to which people were once tied when being burned alive as a form of execution. "
+            },
+            {
+                "phrase": "the moment (that)",
+                "link": "https://idioms.thefreedictionary.com/the+moment+(that)",
+                "definition": "As soon as; immediately when. "
+            },
+            {
+                "phrase": "ride on coattails",
+                "link": "https://idioms.thefreedictionary.com/ride+on+coattails",
+                "definition": "To benefit from someone else's success; to use someone else's success as a means to achieve one's own. "
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "sentence": "While all firms must allow people to take their entire lump sum, many will not allow partial withdrawals.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "let in on",
+                "link": "https://idioms.thefreedictionary.com/let+in+on",
+                "definition": "To give one information that is private or not widely known. "
+            },
+            {
+                "phrase": "you can't go home again",
+                "link": "https://idioms.thefreedictionary.com/you+can%27t+go+home+again",
+                "definition": "You can't truly go back to a place you once lived because so much will have changed since you left that it is not the same place anymore. "
+            },
+            {
+                "phrase": "blood is shed",
+                "link": "https://idioms.thefreedictionary.com/blood+is+shed",
+                "definition": "People are killed as a result of violence. "
+            },
+            {
+                "phrase": "don't believe everything you read",
+                "link": "https://idioms.thefreedictionary.com/don%27t+believe+everything+you+read",
+                "definition": "You should not accept at face value all the information you read online or in print, as it is very easy for it to be inaccurate, misleading, or fabricated. "
+            },
+            {
+                "phrase": "Gordian knot",
+                "link": "https://idioms.thefreedictionary.com/Gordian+knot",
+                "definition": "A complicated problem that can only be solved with creative or unorthodox thinking. In Greek and Roman mythology, King Gordian tied such a complex knot that only Alexander the Great was able to loosen it by cutting it with his sword. "
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "sentence": "Buenos Aires thief Sofia Davila, 21, would start chatting to men over Facebook before suggesting that they meet up.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "Facebook official",
+                "link": "https://idioms.thefreedictionary.com/Facebook+official",
+                "definition": "Of a new romantic relationship, made public on Facebook by updating the relationship status in one's profile, and thereby revealed to one's entire network of friends and followers. "
+            },
+            {
+                "phrase": "woman of color",
+                "link": "https://idioms.thefreedictionary.com/woman+of+color",
+                "definition": "A woman who is not white. The term is used in a neutral or positive way to encompass all nonwhite women. "
+            },
+            {
+                "phrase": "drugstore cowboy",
+                "link": "https://idioms.thefreedictionary.com/drugstore+cowboy",
+                "definition": "A young man who loiters in public places, such as on street corners or outside of drugstores, especially in the attempt to impress or woo young women. Primarily heard in US, South Africa. "
+            },
+            {
+                "phrase": "knuck if you buck",
+                "link": "https://idioms.thefreedictionary.com/knuck+if+you+buck",
+                "definition": " An invitation to fight or an interjection threatening a fight. Popularized by Crime Mob's 2004 song of the same name. "
+            },
+            {
+                "phrase": "incarcerate in",
+                "link": "https://idioms.thefreedictionary.com/incarcerate+in",
+                "definition": "To detain or imprison someone in something in particular. "
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "sentence": "The boyfriend was not aware of what happened, Walker told CNN affiliate KYW-TV.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "Am I my brother's keeper?",
+                "link": "https://idioms.thefreedictionary.com/Am+I+my+brother%27s+keeper%3f",
+                "definition": "I'm not responsible for the actions, behavior, or whereabouts of my close relative or friend (not necessarily a brother). Often used to express frustration that such responsibility is assumed. "
+            },
+            {
+                "phrase": "credibility gap",
+                "link": "https://idioms.thefreedictionary.com/credibility+gap",
+                "definition": "The discrepancy between the lofty promises that a person makes and the resulting action or situation. "
+            },
+            {
+                "phrase": "on the wrong side of the law",
+                "link": "https://idioms.thefreedictionary.com/on+the+wrong+side+of+the+law",
+                "definition": "Legally culpable for a crime; sought by the authorities for some legal wrongdoing. "
+            },
+            {
+                "phrase": "you're on",
+                "link": "https://idioms.thefreedictionary.com/you%27re+on",
+                "definition": "An exclamation of agreement to something that was said or that is happening, often (but not always) a challenge or a wager. "
+            },
+            {
+                "phrase": "too long; didn't read",
+                "link": "https://idioms.thefreedictionary.com/too+long%3b+didn%27t+read",
+                "definition": "An expression that indicates that one did not read an online article or post, usually because it was deemed too long and/or boring. Usually abbreviated \"TL;DR.\" "
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "sentence": "While inside, he became irate and leg cuffs were put on him, police have said.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "go stir-crazy",
+                "link": "https://idioms.thefreedictionary.com/go+stir-crazy",
+                "definition": "To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. \"Stir\" in this usage is a slang word for prison. "
+            },
+            {
+                "phrase": "put (one) to a lot of expense",
+                "link": "https://idioms.thefreedictionary.com/put+(one)+to+a+lot+of+expense",
+                "definition": "To force one to pay a large amount of money (for something). "
+            },
+            {
+                "phrase": "in the case of",
+                "link": "https://idioms.thefreedictionary.com/in+the+case+of",
+                "definition": "In reference to; in the instance of; concerning. "
+            },
+            {
+                "phrase": "hoot and holler",
+                "link": "https://idioms.thefreedictionary.com/hoot+and+holler",
+                "definition": "To voice displeasure or unhappiness. "
+            },
+            {
+                "phrase": "have straws in (one's) hair",
+                "link": "https://idioms.thefreedictionary.com/have+straws+in+(one%27s)+hair",
+                "definition": " To be insane or mentally deranged; to be or have been a patient of a mental institution. "
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "sentence": "You will take part in a series of lectures and briefings, revealing latest findings about the 269 metre-long liner.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "know the score",
+                "link": "https://idioms.thefreedictionary.com/know+the+score",
+                "definition": "To understand the reality of a particular situation, often when that information is displeasing "
+            },
+            {
+                "phrase": "quod erat demonstrandum",
+                "link": "https://idioms.thefreedictionary.com/quod+erat+demonstrandum",
+                "definition": "From Latin, literally \"what was to be demonstrated,\" formally used at the conclusion of mathematical or philosophical proofs. In everyday speech and writing, it is used to emphasize that something proves a particular point or opinion. Commonly abbreviated as \"QED.\" "
+            },
+            {
+                "phrase": "read for",
+                "link": "https://idioms.thefreedictionary.com/read+for",
+                "definition": "To read something for some specific task or goal. A noun or pronoun can come between \"read\" and \"for.\" "
+            },
+            {
+                "phrase": "open day",
+                "link": "https://idioms.thefreedictionary.com/open+day",
+                "definition": "A specified day in which an organization, especially a school, university, or business, is open for visitation, inspection, or evaluation by members of the public. Primarily heard in UK. "
+            },
+            {
+                "phrase": "drum (something) into (one's) head",
+                "link": "https://idioms.thefreedictionary.com/drum+(something)+into+(one%27s)+head",
+                "definition": "To educate one about something through intense and frequent repetition. "
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "sentence": "Carry your camera with you, store a journal in your bag, leave a pair of running shoes at work.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "hit me on the hip",
+                "link": "https://idioms.thefreedictionary.com/hit+me+on+the+hip",
+                "definition": "To contact one on their cell phone, beeper, or pager. The term refers to the tendency for beepers and pagers to be worn attached to one's belt. "
+            },
+            {
+                "phrase": "pocket protector",
+                "link": "https://idioms.thefreedictionary.com/pocket+protector",
+                "definition": "A thin plastic sheath that fits into the breast pocket of one's shirt to hold pens and other small instruments and protect the pocket from stains or tears. "
+            },
+            {
+                "phrase": "pound up",
+                "link": "https://idioms.thefreedictionary.com/pound+up",
+                "definition": "To strike or hammer something repeatedly and forcefully to break it apart into many pieces. A noun or pronoun can be used between \"pound\" and \"up.\" "
+            },
+            {
+                "phrase": "brush down",
+                "link": "https://idioms.thefreedictionary.com/brush+down",
+                "definition": "To remove something from fabric by brushing. A noun or pronoun can be used between \"brush\" and \"down.\" "
+            },
+            {
+                "phrase": "help (someone) off with (something)",
+                "link": "https://idioms.thefreedictionary.com/help+(someone)+off+with+(something)",
+                "definition": "To assist someone in removing a clothing item. "
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "sentence": "The 24-year-old has been heavily linked with a move to Real Madrid this summer.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "ring the curtain down (on something)",
+                "link": "https://idioms.thefreedictionary.com/ring+the+curtain+down+(on+something)",
+                "definition": "To bring a performance or act of a play to an end by lowering the theater curtain. The phrase refers to the practice of ringing a bell to signal the lowering of the curtain in the theater. "
+            },
+            {
+                "phrase": "hollow legs",
+                "link": "https://idioms.thefreedictionary.com/hollow+legs",
+                "definition": "Farlex Partner Idioms Dictionary \u00a9 Farlex 2017"
+            },
+            {
+                "phrase": "trust to",
+                "link": "https://idioms.thefreedictionary.com/trust+to",
+                "definition": "To have faith that one will perform a particular action. "
+            },
+            {
+                "phrase": "dog days",
+                "link": "https://idioms.thefreedictionary.com/dog+days",
+                "definition": "The period in the summer often thought to be hottest, usually considered to be July 3 to August 1In ancient times, people associated the heat during this period with the concurrent rising of Sirius, nicknamed \"the dog star.\" The phrase is a translation of the Latin "
+            },
+            {
+                "phrase": "the eagle has landed",
+                "link": "https://idioms.thefreedictionary.com/the+eagle+has+landed",
+                "definition": "Someone or something has arrived; something been done. The phrase was famously said by US astronaut Neil Armstrong when the "
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "sentence": " I sorted through the multiple copies, separating them into ever-growing stacks.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "hack away at (something)",
+                "link": "https://idioms.thefreedictionary.com/hack+away+at+(something)",
+                "definition": "To cut away at something and remove pieces of it, often with clumsy strokes or whacks. "
+            },
+            {
+                "phrase": "crowd with (someone or something)",
+                "link": "https://idioms.thefreedictionary.com/crowd+with+(someone+or+something)",
+                "definition": "To fill something with more than it can reasonably hold or accommodate. A noun or pronoun can be used between \"crowd\" and \"with.\" "
+            },
+            {
+                "phrase": "crowd with",
+                "link": "https://idioms.thefreedictionary.com/crowd+with",
+                "definition": "To fill something with more than it can reasonably hold or accommodate. A noun or pronoun can be used between \"crowd\" and \"with.\" "
+            },
+            {
+                "phrase": "green hand",
+                "link": "https://idioms.thefreedictionary.com/green+hand",
+                "definition": "Someone who is very inexperienced. Used especially of a such a person on a ship. "
+            },
+            {
+                "phrase": "green folding stuff/money",
+                "link": "https://idioms.thefreedictionary.com/green+folding+stuff%2fmoney",
+                "definition": "Paper money, especially in large amounts. "
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "sentence": "Colleen Harris was charged in the 1985 shotgun killing of her then-husband, 46-year-old James Batten.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "eat one's gun",
+                "link": "https://idioms.thefreedictionary.com/eat+one%27s+gun",
+                "definition": "To commit suicide by shooting oneself in the head through the roof of one's mouth. "
+            },
+            {
+                "phrase": "eat (one's) gun",
+                "link": "https://idioms.thefreedictionary.com/eat+(one%27s)+gun",
+                "definition": "To commit suicide by shooting oneself in the head through the roof of one's mouth. "
+            },
+            {
+                "phrase": "pop a squat",
+                "link": "https://idioms.thefreedictionary.com/pop+a+squat",
+                "definition": " To sit down. "
+            },
+            {
+                "phrase": "the moment (that)",
+                "link": "https://idioms.thefreedictionary.com/the+moment+(that)",
+                "definition": "As soon as; immediately when. "
+            },
+            {
+                "phrase": "blue chamber",
+                "link": "https://idioms.thefreedictionary.com/blue+chamber",
+                "definition": "A room that all but the owner are forbidden entry into. The term takes its name from the French fable of \"Blue Beard,\" who stores the bodies of his murdered former wives in a locked chamber in his castle. "
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "sentence": "They said the girl was unconscious for about five minutes after the crash, but that she evaded serious injury.",
+        "upvalue": 0,
+        "downvalue": 0,
+        "content": [
+            {
+                "phrase": "no good deed ever goes unpunished",
+                "link": "https://idioms.thefreedictionary.com/no+good+deed+ever+goes+unpunished",
+                "definition": "Due to the cruelty, ignorance, or selfishness of the world or others, one's good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that \"no good deed goes unrewarded.\" "
+            },
+            {
+                "phrase": "bobby soxer",
+                "link": "https://idioms.thefreedictionary.com/bobby+soxer",
+                "definition": "In the 1940s and '50s, a teenage girl or young woman known for being a passionate fan of pop musicians (particularly Frank Sinatra) and for wearing \"bobby sox\" (white ankle socks that were very trendy at the time). "
+            },
+            {
+                "phrase": "poor man's",
+                "link": "https://idioms.thefreedictionary.com/poor+man%27s",
+                "definition": "A less desirable substitute for the genuine item. "
+            },
+            {
+                "phrase": "poor little rich girl/boy/kid",
+                "link": "https://idioms.thefreedictionary.com/poor+little+rich+girl%2fboy%2fkid",
+                "definition": "A sarcastic and unsympathetic label for someone, especially a young person, who has access to vast wealth but is discontent at a spiritual or existential level. "
             },
             {
                 "phrase": "widow's weeds",
@@ -396,312 +1422,114 @@
         ]
     },
     {
-        "id": 12,
-        "sentence": "Defence lawyers said they would launch an appeal against the convictions.",
+        "id": 44,
+        "sentence": "In 1995, a marine park was established by residents to tackle the problem of overfishing.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "swear a warrant out on (one)",
-                "link": "https://idioms.thefreedictionary.com/swear+a+warrant+out+on+(one)",
-                "definition": "To file a judicial writ for one to be arrested or detained. "
+                "phrase": "don't cry stinking fish",
+                "link": "https://idioms.thefreedictionary.com/don%27t+cry+stinking+fish",
+                "definition": "Don't undermine your own efforts or put yourself down. A reference to fishmongers, who would find little business if they proclaimed their fish smelled bad. Primarily heard in UK. "
             },
             {
-                "phrase": "take out a warrant for (someone or something)",
-                "link": "https://idioms.thefreedictionary.com/take+out+a+warrant+for+(someone+or+something)",
-                "definition": "To file a judicial writ for one to be arrested or detained. "
+                "phrase": "eat (one's) own dog food",
+                "link": "https://idioms.thefreedictionary.com/eat+(one%27s)+own+dog+food",
+                "definition": "To use the product(s) one's company produces or develops as a means of demonstrating or validating its quality, capabilities, or superiority to other brands. Used primarily in reference to software industries, the phrase is thought to have originated with advertisements for Alpo dog food in the 1980s, in which actor Lorne Green promoted the product by pointing out that he fed it to his own dogs. "
             },
             {
-                "phrase": "swear a warrant out",
-                "link": "https://idioms.thefreedictionary.com/swear+a+warrant+out",
-                "definition": "To file a judicial writ for some legal action to be taken, usually the arrest or detention of someone. "
+                "phrase": "see you next Tuesday",
+                "link": "https://idioms.thefreedictionary.com/see+you+next+Tuesday",
+                "definition": " A humorous subsitution for the vulgar, offensive term \"cunt,\" based on the sound of the first two words representing \"C U\" and the initials of the next two representing \"N T.\" "
             },
             {
-                "phrase": "make out for (somewhere or something)",
-                "link": "https://idioms.thefreedictionary.com/make+out+for+(somewhere+or+something)",
-                "definition": "To move in the direction toward some place, often hastily, and/or in order to flee. "
+                "phrase": "rise to the challenge",
+                "link": "https://idioms.thefreedictionary.com/rise+to+the+challenge",
+                "definition": "To discover or utilize the strength, determination, or skill necessary to accomplish some difficult task successfully. "
             },
             {
-                "phrase": "take potluck",
-                "link": "https://idioms.thefreedictionary.com/take+potluck",
-                "definition": "To select blindly from the available options in the hopes of achieving a fortunate or beneficial end result. "
+                "phrase": "shark bait",
+                "link": "https://idioms.thefreedictionary.com/shark+bait",
+                "definition": " A person swimming or surfing alone in the ocean. "
             }
         ]
     },
     {
-        "id": 13,
-        "sentence": "Ink may extend all the way to the wrist once the rules go into effect.",
+        "id": 45,
+        "sentence": "Peggy Mitchell was born and Barbara was the perfect foil to rugged eggheads Grant and Phil Mitchell.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "burn in",
-                "link": "https://idioms.thefreedictionary.com/burn+in",
-                "definition": "To use heat to engrave or etch something into a material. A noun or pronoun can be used between \"burn\" and \"in.\" "
+                "phrase": "cream of the crop",
+                "link": "https://idioms.thefreedictionary.com/cream+of+the+crop",
+                "definition": "The best of a particular group. "
             },
             {
-                "phrase": "copy",
-                "link": "https://idioms.thefreedictionary.com/copy",
-                "definition": "To tarnish, damage, or ruin one's reputation by behaving badly or committing some mistake or social transgression. Refers to a child's copy book, the blotting (staining with ink) of which ruins one's work. Primarily heard in UK. "
+                "phrase": "apple of one's eye",
+                "link": "https://idioms.thefreedictionary.com/apple+of+one%27s+eye",
+                "definition": "A cherished or favored person. This phrase is thought to be Biblical in origin. "
             },
             {
-                "phrase": "if it sounds too good to be true, it probably is",
-                "link": "https://idioms.thefreedictionary.com/if+it+sounds+too+good+to+be+true%2c+it+probably+is",
-                "definition": "If something seems more exciting, pleasing, or ideal than seems reasonable, then it likely isn't genuine, legitimate, or true. "
+                "phrase": "apple of one's eye, the",
+                "link": "https://idioms.thefreedictionary.com/apple+of+one%27s+eye%2c+the",
+                "definition": "A cherished or favored person. This phrase is thought to be Biblical in origin. "
             },
             {
-                "phrase": "touch for",
-                "link": "https://idioms.thefreedictionary.com/touch+for",
-                "definition": "To beg or wheedle something (usually money or food) as a handout from one. "
+                "phrase": "give the shirt off back",
+                "link": "https://idioms.thefreedictionary.com/give+the+shirt+off+back",
+                "definition": "To act in a very generous and selfless manner. "
             },
             {
-                "phrase": "go the distance",
-                "link": "https://idioms.thefreedictionary.com/go+the+distance",
-                "definition": "To persist with some activity or goal until its completion. "
+                "phrase": "there's no question of (something)",
+                "link": "https://idioms.thefreedictionary.com/there%27s+no+question+of+(something)",
+                "definition": "There is no doubt that something exists or is the case. "
             }
         ]
     },
     {
-        "id": 14,
-        "sentence": "Roberta was said to have fled her abusive home before turning to prostitution.",
+        "id": 46,
+        "sentence": "Emergency services were called about 4pm and treated the man at the scene before taking him to hospital ..",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "the other thing",
-                "link": "https://idioms.thefreedictionary.com/the+other+thing",
-                "definition": "Some heretofore undiscussed point or aspect. "
+                "phrase": "crash cart",
+                "link": "https://idioms.thefreedictionary.com/crash+cart",
+                "definition": "The cart of medical equipment used when a patient \"crashes\" (experiences cardiac arrest). "
             },
             {
-                "phrase": "scarper",
-                "link": "https://idioms.thefreedictionary.com/scarper",
-                "definition": " To run away or flee in haste. The origin of the term is uncertain. Primarily heard in UK. "
+                "phrase": "in hopes of (something)",
+                "link": "https://idioms.thefreedictionary.com/in+hopes+of+(something)",
+                "definition": "With the expectation, intention, or desire of something or something happening. "
             },
             {
-                "phrase": "comfort woman",
-                "link": "https://idioms.thefreedictionary.com/comfort+woman",
-                "definition": " A woman or girl forced into sexual slavery or recruited into prostitution by and in service of the Japanese Imperial Army before and during World War II. "
+                "phrase": "hoss opera",
+                "link": "https://idioms.thefreedictionary.com/hoss+opera",
+                "definition": "A film or theatrical production about the American West (i.e., a western), especially one that is clich\u00e9d or formulaic. "
             },
             {
-                "phrase": "fridging",
-                "link": "https://idioms.thefreedictionary.com/fridging",
-                "definition": " A shortening of \"refrigerator.\" The \"d\" is included in the spelling to approximate the pronunciation of this part of the word. "
+                "phrase": "Are you taking any medications?",
+                "link": "https://idioms.thefreedictionary.com/Are+you+taking+any+medications%3f",
+                "definition": "An inquiry into one's current medication regimen, used by medical professionals when collecting patient information. "
             },
             {
-                "phrase": "house room",
-                "link": "https://idioms.thefreedictionary.com/house+room",
-                "definition": "Involvement with someone or something. Often used in the negative phrase \"not give house room,\" meaning to avoid someone or something due to wariness. "
+                "phrase": "in the hot seat",
+                "link": "https://idioms.thefreedictionary.com/in+the+hot+seat",
+                "definition": "Faced with harsh criticism or judgment. "
             }
         ]
     },
     {
-        "id": 15,
-        "sentence": "Barrett Prettyman federal courthouse in Washington in support of the men awaiting sentencing.",
+        "id": 47,
+        "sentence": "suburb of Alexandria after they were warned by authorities that a serial killer was on the loose.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "the inner man/woman",
-                "link": "https://idioms.thefreedictionary.com/the+inner+man%2fwoman",
-                "definition": "One's inner thoughts, conscience, mind, or spirit. "
-            },
-            {
-                "phrase": "Obamacare",
-                "link": "https://idioms.thefreedictionary.com/Obamacare",
-                "definition": "A nickname for the Patient Protection and Affordable Care Act, which was passed during US President Barack Obama's tenure in office as his signature legislation. "
-            },
-            {
-                "phrase": "go to the mattresses",
-                "link": "https://idioms.thefreedictionary.com/go+to+the+mattresses",
-                "definition": "To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by "
-            },
-            {
-                "phrase": "pound out",
-                "link": "https://idioms.thefreedictionary.com/pound+out",
-                "definition": "To create or produce something hastily or erratically using a keyboard. A noun of pronoun can be used between \"pound\" and \"out.\" "
-            },
-            {
-                "phrase": "et vir",
-                "link": "https://idioms.thefreedictionary.com/et+vir",
-                "definition": "From Latin, literally meaning \"and the man\" but taken to mean \"and the husband,\" used in law to indicate the implicit inclusion of a woman's husband, as in a legal document or case. "
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "sentence": "Liverpool manager Brendan Rodgers was due to speak to Sterling to remind him of his responsibilities.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "customer is always right",
-                "link": "https://idioms.thefreedictionary.com/customer+is+always+right",
-                "definition": " A phrase commonly used in the service or retail industry as a reminder to respect the customer's wishes, and therefore please them, often without regard to how unreasonable they may be. "
-            },
-            {
-                "phrase": "incumbent (up)on (someone) to (do something)",
-                "link": "https://idioms.thefreedictionary.com/incumbent+(up)on+(someone)+to+(do+something)",
-                "definition": "Imposed or expected as an obligation, duty, or requirement on someone. "
-            },
-            {
-                "phrase": "DR",
-                "link": "https://idioms.thefreedictionary.com/DR",
-                "definition": "A sarcastic comment made at a dinner party to urge a guest to keep passing the wine. Allegedly, the real Dr. Wright of Norwich was prone to monopolizing the wine because he was such a conversationalist. Primarily heard in UK. "
-            },
-            {
-                "phrase": "mend (one's) ways",
-                "link": "https://idioms.thefreedictionary.com/mend+(one%27s)+ways",
-                "definition": "To start behaving in a different, usually preferable, way. "
-            },
-            {
-                "phrase": "welcome back",
-                "link": "https://idioms.thefreedictionary.com/welcome+back",
-                "definition": "A greeting said to someone upon their return. "
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "sentence": "We will campaign like no other party knows how to campaign again.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "hoo",
-                "link": "https://idioms.thefreedictionary.com/hoo",
-                "definition": "An interjection usually used to express a negative emotion, such as dismay or displeasure. "
-            },
-            {
-                "phrase": "it ain't over till/until the fat lady sings",
-                "link": "https://idioms.thefreedictionary.com/it+ain%27t+over+till%2funtil+the+fat+lady+sings",
-                "definition": "The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. (\"Ain't\" is a colloquial contraction of \"is not.\") The phrase refers to the stereotypically stout female sopranos of the opera, particularly the Valkyrie Br\u00fcnnhilde, whose aria concludes Richard Wagner's opera cycle "
-            },
-            {
-                "phrase": "don't halloo before you are out of the woods",
-                "link": "https://idioms.thefreedictionary.com/don%27t+halloo+before+you+are+out+of+the+woods",
-                "definition": "Don't consider or proclaim a problem solved until you are sure that it is completely, permanently resolved, as more issues might crop up before then. (To \"halloo\" means to shout or yell in a boisterous way, especially to catch someone's attention.) "
-            },
-            {
-                "phrase": "tell its own tale",
-                "link": "https://idioms.thefreedictionary.com/tell+its+own+tale",
-                "definition": "To clearly demonstrate or indicate the truth about what happened. "
-            },
-            {
-                "phrase": "retail at",
-                "link": "https://idioms.thefreedictionary.com/retail+at",
-                "definition": "To sell (some product or item) directly to consumers at a particular price. A noun or pronoun can be used between \"retail\" and \"at\" to indicate the item being sold. "
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "sentence": "In June 2014, the Lemays sat Jacob down and showed him a video about another transgender boy, Ryland Whittington.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "rube",
-                "link": "https://idioms.thefreedictionary.com/rube",
-                "definition": "A call for help. It originated among members of traveling circuses in the late 19th century. "
-            },
-            {
-                "phrase": "cherchez la femme",
-                "link": "https://idioms.thefreedictionary.com/cherchez+la+femme",
-                "definition": "A French phrase meaning \"look for the woman,\" the idea being that when a man starts behaving strangely, it is often because he is attracted to or involved with a woman. The phrase is typically attributed to French author Alexandre Dumas. "
-            },
-            {
-                "phrase": "Mandela effect",
-                "link": "https://idioms.thefreedictionary.com/Mandela+effect",
-                "definition": "A phenomenon involving a large group of people all incorrectly remembering a past event or fact. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison. (Mandela died in 2013 after having served as president of South Africa from 1994 to 1999 following his release from prison in 1990.) "
-            },
-            {
-                "phrase": "You're in the army now!",
-                "link": "https://idioms.thefreedictionary.com/You%27re+in+the+army+now!",
-                "definition": "A reference to the intensity and rigidity that accompanies military training that a new recruit is going to face. "
-            },
-            {
-                "phrase": "Kilroy was here",
-                "link": "https://idioms.thefreedictionary.com/Kilroy+was+here",
-                "definition": "A World War II catchphrase that is typically accompanied by a cartoonish drawing of a man with a large nose peering over a wall or fence. "
-            }
-        ]
-    },
-    {
-        "id": 19,
-        "sentence": "If I told young players they were going to play, they would play.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "up in years",
-                "link": "https://idioms.thefreedictionary.com/up+in+years",
-                "definition": "Advanced in age; old or becoming old. "
-            },
-            {
-                "phrase": "x's and o's",
-                "link": "https://idioms.thefreedictionary.com/x%27s+and+o%27s",
-                "definition": "sports The symbols used to denote the players on one's team (and usually those of the opposing team) in a diagram of a play (i.e., the formation the players will take when trying to score or move the ball). The term often refers to the plays themselves. "
-            },
-            {
-                "phrase": "zerked out",
-                "link": "https://idioms.thefreedictionary.com/zerked+out",
-                "definition": " To go berserk. Used especially in reference to video games. "
-            },
-            {
-                "phrase": "choose up",
-                "link": "https://idioms.thefreedictionary.com/choose+up",
-                "definition": "To divide a group of people into teams, as when playing a sport or game. "
-            },
-            {
-                "phrase": "get in there",
-                "link": "https://idioms.thefreedictionary.com/get+in+there",
-                "definition": "To enter some place or become an active participant in some situation, such as a sports game. Often used as an imperative. "
-            }
-        ]
-    },
-    {
-        "id": 20,
-        "sentence": "Sir John will warn of the dangers of a Labour-SNP government.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "politically correct",
-                "link": "https://idioms.thefreedictionary.com/politically+correct",
-                "definition": "Describing statements or behavior careful to avoid offense or insensitivity. "
-            },
-            {
-                "phrase": "if you can't stand the heat, get out of the kitchen",
-                "link": "https://idioms.thefreedictionary.com/if+you+can%27t+stand+the+heat%2c+get+out+of+the+kitchen",
-                "definition": " If you can't cope with or handle the pressure in a given situation, you should remove yourself from that situation. Typically used to imply that the one being addressed is weak or unsuited for such work. The expression was popularized by US President Harry S. Truman. "
-            },
-            {
-                "phrase": "shoot (one's) load",
-                "link": "https://idioms.thefreedictionary.com/shoot+(one%27s)+load",
-                "definition": "To lose or spend all of one's money or to use all of one's resources, especially too quickly and all at once. "
-            },
-            {
-                "phrase": "British",
-                "link": "https://idioms.thefreedictionary.com/British",
-                "definition": "A wish for good luck, used especially when it is believed that there is not much chance for success or a positive outcome. Primarily heard in UK. "
-            },
-            {
-                "phrase": "on the razzle",
-                "link": "https://idioms.thefreedictionary.com/on+the+razzle",
-                "definition": " Having a fun night of celebrating or socializing. Primarily heard in UK. "
-            }
-        ]
-    },
-    {
-        "id": 21,
-        "sentence": "Wallace and Ortiz are to be tried separately on murder charges.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "conspiracy to commit murder",
-                "link": "https://idioms.thefreedictionary.com/conspiracy+to+commit+murder",
-                "definition": "In law, an offense marked by an agreement or contract one makes with or among others to murder someone else. "
+                "phrase": "put a hold on",
+                "link": "https://idioms.thefreedictionary.com/put+a+hold+on",
+                "definition": "To delay or postpone some state, activity, event, etc. "
             },
             {
                 "phrase": "put a crimp in",
@@ -709,316 +1537,118 @@
                 "definition": "To disrupt or interfere with something. "
             },
             {
-                "phrase": "pop a squat",
-                "link": "https://idioms.thefreedictionary.com/pop+a+squat",
-                "definition": " To sit down. "
+                "phrase": "drop a dime",
+                "link": "https://idioms.thefreedictionary.com/drop+a+dime",
+                "definition": "To snitch or inform on someone to a person of higher authority. Originally street slang for informing to police, it refers to the old price of using a public payphone (10 cents). Primarily heard in US, South Africa. "
             },
             {
-                "phrase": "extradite (someone) from (some place)",
-                "link": "https://idioms.thefreedictionary.com/extradite+(someone)+from+(some+place)",
-                "definition": "To force someone who has committed a crime in another state or country to return there in order to be prosecuted. "
+                "phrase": "hit man",
+                "link": "https://idioms.thefreedictionary.com/hit+man",
+                "definition": "Someone who is hired to kill someone; a professional assassin. "
             },
             {
-                "phrase": "swear a warrant out",
-                "link": "https://idioms.thefreedictionary.com/swear+a+warrant+out",
-                "definition": "To file a judicial writ for some legal action to be taken, usually the arrest or detention of someone. "
+                "phrase": "armpit of the universe",
+                "link": "https://idioms.thefreedictionary.com/armpit+of+the+universe",
+                "definition": "A very dirty, foul, or extremely unappealing place. "
             }
         ]
     },
     {
-        "id": 22,
-        "sentence": "\u00a0He looks several years older, with grey slicked back hair and his brown eyes changes to a grey-blue.",
+        "id": 48,
+        "sentence": "But the name tattooed on his neck -- Gertrude -- gave him away.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "snow out",
-                "link": "https://idioms.thefreedictionary.com/snow+out",
-                "definition": "To be delayed, postponed, or cancelled due to the snow. "
+                "phrase": "the rub",
+                "link": "https://idioms.thefreedictionary.com/the+rub",
+                "definition": "The biggest problem or difficulty (with the situation being discussed). The phrase was famously used in Shakespeare's "
             },
             {
-                "phrase": "fud",
-                "link": "https://idioms.thefreedictionary.com/fud",
-                "definition": " Someone who is old-fashioned or crotchety. "
+                "phrase": "Caesar's wife",
+                "link": "https://idioms.thefreedictionary.com/Caesar%27s+wife",
+                "definition": "One who must avoid attracting negative attention or scrutiny (because they are involved with a famous or prominent figure). Julius Caesar allegedly used the phrase \"Caesar's wife must be above suspicion\" to explain why he divorced his wife, Pompeia. "
             },
             {
-                "phrase": "fuddy-duddy",
-                "link": "https://idioms.thefreedictionary.com/fuddy-duddy",
-                "definition": " Someone who is old-fashioned or crotchety. "
+                "phrase": "fair sex",
+                "link": "https://idioms.thefreedictionary.com/fair+sex",
+                "definition": "Females. The term has come to be considered inappropriate due to its emphasis on the physical appearance of women and girls. "
             },
             {
-                "phrase": "fungus-face",
-                "link": "https://idioms.thefreedictionary.com/fungus-face",
-                "definition": " Someone who has a beard or stubble. "
+                "phrase": "do as I say, not as I do",
+                "link": "https://idioms.thefreedictionary.com/do+as+I+say%2c+not+as+I+do",
+                "definition": " Model yourself after my instructions, not my actions. The phrase implies that the speaker is imperfect and makes mistakes, so one should follow their advice but not imitate them. "
             },
             {
-                "phrase": "fungus",
-                "link": "https://idioms.thefreedictionary.com/fungus",
-                "definition": " Someone who has a beard or stubble. "
+                "phrase": "jaw about (someone or something)",
+                "link": "https://idioms.thefreedictionary.com/jaw+about+(someone+or+something)",
+                "definition": "To chat or gossip idly or aimlessly about someone or something. "
             }
         ]
     },
     {
-        "id": 23,
-        "sentence": "\u00a0Now, all four  reside in a Sensitive Needs Housing Unit.",
+        "id": 49,
+        "sentence": "of the one person who should have been his ultimate protector: .",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "eat salt with (someone)",
-                "link": "https://idioms.thefreedictionary.com/eat+salt+with+(someone)",
-                "definition": "To stay at someone's house. Primarily heard in UK. "
+                "phrase": "consist in (something)",
+                "link": "https://idioms.thefreedictionary.com/consist+in+(something)",
+                "definition": "To have something be the sole, primary, or most important element or aspect. "
             },
             {
-                "phrase": "eat salt with",
-                "link": "https://idioms.thefreedictionary.com/eat+salt+with",
-                "definition": "To stay at someone's house. Primarily heard in UK. "
+                "phrase": "be (not) (one's) department",
+                "link": "https://idioms.thefreedictionary.com/be+(not)+(one%27s)+department",
+                "definition": "To be one's area of expertise or responsibility. "
             },
             {
-                "phrase": "large",
-                "link": "https://idioms.thefreedictionary.com/large",
-                "definition": " A thousand dollars. Primarily heard in US. "
+                "phrase": "be riddled with (something)",
+                "link": "https://idioms.thefreedictionary.com/be+riddled+with+(something)",
+                "definition": "To be full of or consumed with something. "
             },
             {
-                "phrase": "her indoors",
-                "link": "https://idioms.thefreedictionary.com/her+indoors",
-                "definition": " One's wife. A reference to the fact that wives were traditionally expected to remain primarily indoors to keep the house and raise children. Primarily heard in UK. "
+                "phrase": "the left hand doesn't know what the right hand is doing",
+                "link": "https://idioms.thefreedictionary.com/the+left+hand+doesn%27t+know+what+the+right+hand+is+doing",
+                "definition": "In a situation or setting in which people are working together, certain people in the organization are ignorant of the actions of certain other people in the organization, leading to dysfunction. "
             },
             {
-                "phrase": "estate",
-                "link": "https://idioms.thefreedictionary.com/estate",
-                "definition": "The people and organizations that report the news, or news journalism as a whole, regarded as having palpable but unofficial political influence. "
+                "phrase": "every tub must stand on its own bottom",
+                "link": "https://idioms.thefreedictionary.com/every+tub+must+stand+on+its+own+bottom",
+                "definition": " Everyone must be self-sufficient. "
             }
         ]
     },
     {
-        "id": 24,
-        "sentence": "And Moores acknowledged that jobs are on the line in the Caribbean.",
+        "id": 50,
+        "sentence": "Heavenly show-stopping masterpieces were highlights of the week, with intricate hand-sewn embellishments, fringing, feathers, and sheer fabrics key trends.",
         "upvalue": 0,
         "downvalue": 0,
         "content": [
             {
-                "phrase": "port in a/the storm",
-                "link": "https://idioms.thefreedictionary.com/port+in+a%2fthe+storm",
-                "definition": "A person, group, or place where one can find comfort, refuge, or help during particularly difficult or trying times. The related phrase \"any port in a storm\" implies choosing any solution in times of trouble, even if it is unappealing. "
+                "phrase": "there's no question of (something)",
+                "link": "https://idioms.thefreedictionary.com/there%27s+no+question+of+(something)",
+                "definition": "There is no doubt that something exists or is the case. "
             },
             {
-                "phrase": "girl Friday",
-                "link": "https://idioms.thefreedictionary.com/girl+Friday",
-                "definition": "A female assistant who is capable of many different types of tasks. Based on the term \"man Friday,\" the term can be considered sexist. "
+                "phrase": "marriage inequality",
+                "link": "https://idioms.thefreedictionary.com/marriage+inequality",
+                "definition": "A term applied to same-sex couples that are not able to have their relationship legally recognized (such as by marriage). "
             },
             {
-                "phrase": "hire",
-                "link": "https://idioms.thefreedictionary.com/hire",
-                "definition": "To persuade someone to quit their current job and work for one instead. "
+                "phrase": "dressed to kill/to the nines",
+                "link": "https://idioms.thefreedictionary.com/dressed+to+kill%2fto+the+nines",
+                "definition": "Very well-dressed and fashionable, typically in an attempt to impress other people. "
             },
             {
-                "phrase": "in the blink of an eye",
-                "link": "https://idioms.thefreedictionary.com/in+the+blink+of+an+eye",
-                "definition": "So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink). "
-            },
-            {
-                "phrase": "in the region of",
-                "link": "https://idioms.thefreedictionary.com/in+the+region+of",
-                "definition": "Approximately some amount; close to some amount. "
-            }
-        ]
-    },
-    {
-        "id": 25,
-        "sentence": "SES Commissioner Adam Dent urged bosses to remain flexible in coming days, despite the clearer skies.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "let out of",
-                "link": "https://idioms.thefreedictionary.com/let+out+of",
-                "definition": "To conclude, dismiss from, or be dismissed from some scheduled activity, such as school. "
-            },
-            {
-                "phrase": "if nothing else",
-                "link": "https://idioms.thefreedictionary.com/if+nothing+else",
-                "definition": "A phrase used to indicate that something is a priority or the most important thing. "
-            },
-            {
-                "phrase": "hack it",
-                "link": "https://idioms.thefreedictionary.com/hack+it",
-                "definition": " To complete or tolerate a task or situation. Usually used in the negative. "
-            },
-            {
-                "phrase": "let's face it",
-                "link": "https://idioms.thefreedictionary.com/let%27s+face+it",
-                "definition": "We need to recognize the truth; we should face reality. "
-            },
-            {
-                "phrase": "mindfuck",
-                "link": "https://idioms.thefreedictionary.com/mindfuck",
-                "definition": " Something that is extremely confusing or mind-boggling. "
-            }
-        ]
-    },
-    {
-        "id": 26,
-        "sentence": "Charlotte said that the pair had a lot of different reactions, from laughter to confusion.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "fall about the place",
-                "link": "https://idioms.thefreedictionary.com/fall+about+the+place",
-                "definition": "To stumble around (some place), falling down often. "
-            },
-            {
-                "phrase": "fall about the place (laughing)",
-                "link": "https://idioms.thefreedictionary.com/fall+about+the+place+(laughing)",
-                "definition": "To stumble around (some place), falling down often. "
-            },
-            {
-                "phrase": "light (something) with (something)",
-                "link": "https://idioms.thefreedictionary.com/light+(something)+with+(something)",
-                "definition": "To ignite or set fire to something with some incendiary means. "
-            },
-            {
-                "phrase": "ravished with delight",
-                "link": "https://idioms.thefreedictionary.com/ravished+with+delight",
-                "definition": " Extremely pleased and happy; absolutely thrilled or delighted. "
-            },
-            {
-                "phrase": "have a loud mouth",
-                "link": "https://idioms.thefreedictionary.com/have+a+loud+mouth",
-                "definition": "To have a tendency or habit of speaking incessantly, indiscreetly, and/or in a noisy, boastful manner. "
-            }
-        ]
-    },
-    {
-        "id": 27,
-        "sentence": "His extravagant purchase was met with surprise by one of his fellow fighters, Abou Shaheed al-Muhajir.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "back in circulation",
-                "link": "https://idioms.thefreedictionary.com/back+in+circulation",
-                "definition": "Engaging in social activities, typically after an absence. "
-            },
-            {
-                "phrase": "in bad with (one)",
-                "link": "https://idioms.thefreedictionary.com/in+bad+with+(one)",
-                "definition": "Disliked or out of favor; in trouble. "
-            },
-            {
-                "phrase": "burn your fingers",
-                "link": "https://idioms.thefreedictionary.com/burn+your+fingers",
-                "definition": "To suffer an unpleasant or ruinous consequence (especially the loss of money) for some action, often such that one becomes unwilling or reluctant to do it again. "
-            },
-            {
-                "phrase": "robber baron",
-                "link": "https://idioms.thefreedictionary.com/robber+baron",
-                "definition": "A disparaging term applied to any of the prominent businessmen in the late 19th-century US who used unethical means to increase industrialization (and thus their own wealth and prestige). "
-            },
-            {
-                "phrase": "not",
-                "link": "https://idioms.thefreedictionary.com/not",
-                "definition": "An interjection negating the statement one has just made and thus rendering it sarcastic. "
-            }
-        ]
-    },
-    {
-        "id": 28,
-        "sentence": "Sterling insists that he is focused on winning trophies and becoming the best player he can be.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "he who laughs last laughs longest",
-                "link": "https://idioms.thefreedictionary.com/he+who+laughs+last+laughs+longest",
-                "definition": " The person who has the final, decisive move or victory in a feud, quarrel, or competition is the only one who is truly successful. "
-            },
-            {
-                "phrase": "victory",
-                "link": "https://idioms.thefreedictionary.com/victory",
-                "definition": "A victory in an election by a very large and decisive margin. "
-            },
-            {
-                "phrase": "practise",
-                "link": "https://idioms.thefreedictionary.com/practise",
-                "definition": " Practicing or repeatedly doing something will make one become proficient or skillful at it. "
-            },
-            {
-                "phrase": "greatest thing since indoor plumbing",
-                "link": "https://idioms.thefreedictionary.com/greatest+thing+since+indoor+plumbing",
-                "definition": "A humorous and hyperbolic statement indicating one's belief that something is excellent, especially something new and innovative. "
-            },
-            {
-                "phrase": "front runner",
-                "link": "https://idioms.thefreedictionary.com/front+runner",
-                "definition": "The person or thing most likely to be awarded something. "
-            }
-        ]
-    },
-    {
-        "id": 29,
-        "sentence": "Murray waves to his fans after making his way out of the cathedral following his wedding.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "a rousing send-off",
-                "link": "https://idioms.thefreedictionary.com/a+rousing+send-off",
-                "definition": "A lively and enthusiastic farewell celebration thrown in honor of someone who is leaving some place behind or setting off on a new endeavor. "
-            },
-            {
-                "phrase": "wedding tackle",
-                "link": "https://idioms.thefreedictionary.com/wedding+tackle",
-                "definition": " for male genitalia. "
-            },
-            {
-                "phrase": "Houston, we have a problem.",
-                "link": "https://idioms.thefreedictionary.com/Houston%2c+we+have+a+problem.",
-                "definition": " Used to indicate that one has encountered some unforeseen problem or difficulty. A misquote of radio communications between the crew of the Apollo 13 spacecraft and NASA's Mission Control Center (referred to by its call sign, Houston). Primarily heard in US. "
-            },
-            {
-                "phrase": "hottie",
-                "link": "https://idioms.thefreedictionary.com/hottie",
-                "definition": " Someone who is very physically attractive. "
+                "phrase": "home team",
+                "link": "https://idioms.thefreedictionary.com/home+team",
+                "definition": "A sports team that is playing in its regular arena in its home city. "
             },
             {
                 "phrase": "put out the welcome mat (for someone)",
                 "link": "https://idioms.thefreedictionary.com/put+out+the+welcome+mat+(for+someone)",
                 "definition": "To welcome someone with a warm or elaborate display of friendliness and hospitality. "
-            }
-        ]
-    },
-    {
-        "id": 30,
-        "sentence": "Making an entrance: A lady inspects a stall selling cut-price fascinators as she prepares to make her entrance.",
-        "upvalue": 0,
-        "downvalue": 0,
-        "content": [
-            {
-                "phrase": "flood out of",
-                "link": "https://idioms.thefreedictionary.com/flood+out+of",
-                "definition": "Of a gas or liquid, to move out of something very quickly and in great quantities. "
-            },
-            {
-                "phrase": "lady of pleasure",
-                "link": "https://idioms.thefreedictionary.com/lady+of+pleasure",
-                "definition": "Farlex Dictionary of Idioms. \u00a9 2015 Farlex, Inc, all rights reserved."
-            },
-            {
-                "phrase": "Shall I be mother?",
-                "link": "https://idioms.thefreedictionary.com/Shall+I+be+mother%3f",
-                "definition": "An offer to pour tea or serve food, as it was traditionally the mother who served such things in the household. Primarily heard in UK. "
-            },
-            {
-                "phrase": "do a bean count",
-                "link": "https://idioms.thefreedictionary.com/do+a+bean+count",
-                "definition": " to stare at female breasts, looking for hard nipples. (A play on bean-counter.) "
-            },
-            {
-                "phrase": "hither, thither, and yon",
-                "link": "https://idioms.thefreedictionary.com/hither%2c+thither%2c+and+yon",
-                "definition": "In many different places; everywhere "
             }
         ]
     }
